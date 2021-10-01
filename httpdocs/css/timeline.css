@@ -1,0 +1,372 @@
+/* https://codepen.io/htmlcodex/pen/LYGjPgV */
+
+.timeline {
+    position: relative;
+    width: 100%;
+    max-width: 90vw;
+    margin: 50px auto;
+    padding: 0;
+}
+
+.timeline::after {
+    content: '';
+    position: absolute;
+    width: 2px;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -1px;
+}
+
+.container {
+    padding: 15px 30px;
+    position: relative;
+    background: inherit;
+    width: 50%;
+}
+
+.container.left {
+    left: 0;
+}
+
+.container.right {
+    left: 50%;
+}
+
+.container::after {
+    content: '';
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: calc(50% - 8px);
+    right: -8px;
+    border: 2px solid #666;
+    border-radius: 16px;
+    z-index: 1;
+}
+
+.container.right::after {
+    left: -8px;
+}
+
+.container::before {
+    content: '';
+    position: absolute;
+    width: 50px;
+    height: 2px;
+    top: calc(50% - 1px);
+    right: 8px;
+    z-index: 1;
+}
+
+.container.right::before {
+    left: 8px;
+}
+
+.container .eventDate {
+    position: absolute;
+    display: inline-block;
+    top: calc(50% - 8px);
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    z-index: 1;
+}
+
+.container.left .eventDate {
+    right: -75px;
+}
+
+.container.right .eventDate {
+    left: -75px;
+}
+
+.container .icon {
+    position: absolute;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 9px 0;
+    top: calc(50% - 20px);
+    border: 2px solid #666;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 2rem;
+    z-index: 1;
+}
+
+.container.left .icon {
+    right: 56px;
+}
+
+.container.right .icon {
+    left: 56px;
+}
+
+.container .content {
+    padding: 10px 90px 30px 30px;
+    position: relative;
+    border-radius: 0 100px 100px 0;
+}
+.container .content.highlighted {
+    box-shadow: #de2015 0 0 14px !important;
+}
+
+.container.right .content {
+    padding: 10px 30px 30px 90px;
+    /*padding: 0px 30px 30px 90px;*/
+    border-radius: 100px 0 0 100px;
+}
+
+.content .newYear {
+    display: inline-block;
+    position: relative; /* needed for background fill */
+    padding: 25px 10px 0 10px;
+    height: 100px; /* needed for bottom of fill gradient to expand to full height */
+    margin-left: calc(50% - 57px);
+    border-radius: 25px;
+    /*background-color: #ff0000 !important;*/
+    text-align: center;
+    vertical-align: center;
+    font-size: 3rem;
+    font-stretch: extra-expanded;
+    font-weight: bold;
+    z-index: 2;
+    clear: both;
+}
+.content .newYear a {
+    cursor: pointer;
+}
+.content .newYear.active,
+.content .newYear.first.active {
+    background: none !important;
+}
+.content .newYear .active { /* Stickies the current year at the top of the page */
+    position: fixed !important;
+    top: 0;
+    border-radius: 10px;
+}
+
+
+.container .content h2 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+.container .content p,
+.container .content li {
+    margin: 5px 0 0 0;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    text-align: justify;
+    text-justify: inter-character;
+}
+.container .content p a {
+    text-decoration: underline;
+}
+.container .content p img,
+.container .content p a img,
+.container .content p iframe,
+.container .content p video,
+.container .content p blockquote {
+    max-width: 60%;
+    max-height: 512px;
+    width: auto; /* prevents hardcoded height attributes (prevents content sliding) from leaving gaps that text can't wrap around */
+    height: auto; /* prevents hardcoded height attributes (prevents content sliding) from leaving gaps that text can't wrap around */
+    object-fit: contain;
+    object-position: top;
+}
+.container .content p img.headshot,
+.container .content p a img.headshot {
+    max-width: 250px !important;
+}
+.container .content p img.DFVYOLO,
+.container .content p a img.DFVYOLO {
+    max-width: 100% !important;
+}
+
+.container .content section {
+    margin: 0 0 10px;
+}
+
+.container .content footer {
+    clear: both;
+    margin-top: 5px;
+    padding: 5px 0 0 0;
+    text-align: left;
+    font-size: .8rem;
+}
+
+.container .content footer ol {
+    padding-left: 1rem;
+    margin: 5px 0 3px 0;
+}
+.container .content footer ol li {
+    font-size: .8rem !important;
+    margin-top: 0;
+}
+.container .content footer ol li cite {
+    font-size: .8rem;
+    text-align: right;
+    overflow-wrap: break-word; /* https://css-tricks.com/snippets/css/prevent-long-urls-from-breaking-out-of-container/ */
+    word-wrap: break-word;     /* https://css-tricks.com/snippets/css/prevent-long-urls-from-breaking-out-of-container/ */
+    clear: both;
+}
+.container .content footer q {
+    display: block;
+    margin-bottom: 3px;
+}
+.container .content footer q:before,
+.container .content footer q:after {
+    content: "";
+}
+.container .content footer span.tags a {
+    cursor: pointer;
+}
+
+.container .content section:last-child {
+    margin-bottom: 0;
+}
+
+
+
+
+
+/* 4k formatting */
+@media (max-width: 3840px) {
+    .container .content p img,
+    .container .content p a img,
+    .container .content p iframe,
+    .container .content p video {
+        max-width: 500px;
+    }
+}
+
+
+
+@media (max-width: 1900px) {
+    .container .content p img,
+    .container .content p a img,
+    .container .content p iframe,
+    .container .content p video,
+    .container .content p blockquote {
+        max-width: 60%;
+    }
+}
+
+
+/* HD formatting */
+@media (max-width: 1080px) {
+    .timeline {
+        max-width: 100vw !important;
+    }
+    .container .content p img,
+    .container .content p a img,
+    .container .content p iframe,
+    .container .content p video,
+    .container .content p blockquote {
+        /*max-width: 100%;*/
+        max-width: 60%;
+    }
+}
+
+
+/* mobile formatting */
+@media (max-width: 768px) {
+    .timeline {
+        max-width: 100vw !important;
+    }
+    .timeline::after {
+        left: 90px;
+    }
+
+    .container {
+        width: 100%;
+        padding-left: 120px;
+        padding-right: 10px;
+    }
+
+
+    .content .newYear {
+        position: relative; /* needed for background fill */
+        margin-left: 43px;
+        padding-top: 25px;
+        /*padding-left: 43px;*/
+        text-align: left;
+        z-index: 2;
+    }
+
+    .container .content p,
+    .container .content li {
+        /*text-align: unset;*/
+    }
+
+    .container .content h2 {
+        font-size: 1.4rem;
+    }
+
+    .container.right {
+        left: 0;
+    }
+
+    .container.left::after,
+    .container.right::after {
+        left: 82px;
+    }
+
+    .container.left::before,
+    .container.right::before {
+        left: 100px;
+    }
+
+    .container.left .eventDate,
+    .container.right .eventDate {
+        right: auto;
+        left: 15px;
+    }
+
+    .container.left .icon,
+    .container.right .icon {
+        right: auto;
+        left: 146px;
+    }
+
+    .container.left .content,
+    .container.right .content {
+        padding: 30px 30px 30px 90px;
+        border-radius: 100px 0 0 100px;
+    }
+    .container .content p img.headshot,
+    .container .content p a img.headshot,
+    .container .content p iframe,
+    .container .content p video,
+    .container .content p blockquote {
+        max-width: 100% !important;
+    }
+
+    .container .icon {
+        width: 40px;
+        height: 40px;
+        top: calc(50% - 20px);
+        border-radius: 40px;
+        font-size: 1.4rem;
+    }
+
+    footer div#liftoff {
+        left: 0;
+        right: auto;
+        transform: scale(1, 1);
+    }
+}
+
+
+
+
+@media (max-width: 420px) {
+    .container .content p,
+    .container .content li {
+        text-align: unset;
+    }
+}

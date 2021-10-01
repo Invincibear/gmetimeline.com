@@ -1,0 +1,226 @@
+html {
+    /*scrollbar-color: #666 #201c29;*/
+}
+
+body {
+    background-color: #fff;
+    color: #000;
+}
+
+a, a:visited, a:active {
+    color: #0000ff;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    color: #000099;
+}
+
+
+#snackbar {
+    background-color: #5eba7d;
+    color: #fff;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, .3);
+    box-shadow: 0 3px rgba(0, 0, 0, .3);
+}
+
+header div#changeTheme {
+    background-color: rgba(255, 255, 255, .5);
+    color: #111;
+}
+header #jumpYear {
+    background-color: #fff;
+    color: #000;
+}
+header div#changeTheme a i {
+    color: #000;
+}
+header div#changeTheme a i.light {
+    color: #de2015;
+}
+
+header h1 {
+    text-shadow: 0 4px 4px rgba(0, 0, 0, .3);
+}
+
+
+header #tagFilters .tagFilter.active {
+    background-color: rgba(0, 0, 0, .1);
+}
+header #tagFilters .tagFilter.inactive {
+    background-color: rgba(0, 0, 0, .05);
+}
+header #tagFilters .inactive {
+    color: #000099;
+}
+header #tagFilters .tagFilter {
+    background-color: rgba(0, 0, 0, .1);
+}
+
+
+.content .newYear {
+    background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 25%, rgba(255,255,255,1) 75%, rgba(255,255,255,0) 100%);
+    color: #333;
+    text-shadow: 0 3px 3px rgba(0, 0, 0, .2);
+}
+.content .newYear.first {
+    padding-top: 0;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 25%);
+}
+.content .newYear .active {
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 25%, rgba(255,255,255,1) 75%, rgba(255,255,255,0) 100%) !important;
+    /*background-color: #ffffff !important;*/
+ }
+.content .newYear a, .content .newYear a:active, .content .newYear a:visited {
+    color: #333;
+}
+.content .newYear a:hover {
+    color: #555;
+    text-decoration: underline;
+}
+
+/* this is the main vertical timeline line */
+.timeline::after {
+    background: linear-gradient(180deg, rgba(222, 32, 21, 1) 1%, rgba(222, 32, 21, 1) 99%, rgba(255,255,255,0) 100%);
+}
+
+.container::after {
+    background: #fff;
+    border-color: #de2015 !important;
+}
+
+.container .eventDate {
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, .2);
+    color: #de2015;
+}
+.container.right .eventDate {
+    text-shadow: -2px 2px 2px rgba(0, 0, 0, .2);
+}
+
+.container .icon {
+    background: #fff;
+    border-color: #333 !important;
+    color: #de2015;
+}
+
+.container::before {
+    background: #de2015;
+}
+
+.container.left .content {
+    box-shadow: -5px 5px rgba(0, 0, 0, .1);
+}
+.container.right .content {
+    box-shadow: 5px 5px rgba(0, 0, 0, .1);
+}
+
+.container .content {
+    background: #aaaaaa;
+}
+.container .content p code {
+    background: #999;
+}
+
+.container .popover__content {
+    background-color: #bbb;
+    /*box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);*/
+}
+.container.left .popover__content {
+    box-shadow: -5px 5px rgba(0, 0, 0, .05);
+}
+.container.right .popover__content {
+    box-shadow: 5px 5px rgba(0, 0, 0, .05);
+}
+.popover__content:before {
+    border-color: transparent transparent #bbb transparent;
+}
+button.share {
+    color: #0000ff;
+}
+button.share:hover {
+    color: #000099;
+}
+
+.container .content h2 {
+    color: #fff;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, .2);
+}
+.container .content p, .container .content li, .container .content footer {
+    color: #000;
+    text-shadow: 1px 1px 1px rgba(255, 255, 255, .2);
+}
+
+.container .content cite a, .container .content cite a:visited, .container .content cite a:active {
+    color: #000099;
+    text-decoration: none;
+}
+.container .content cite a:hover {
+    text-decoration: underline;
+    color: #0000ff;
+}
+
+.container.left::before,
+.container.right::before {
+    border-color: transparent #aaaaaa transparent transparent;
+}
+
+footer {
+    border-color: #ccc !important;
+}
+footer #liftoff {
+    text-shadow: -2px 2px 2px rgba(0, 0, 0, .2);
+}
+footer #liftoff a, footer #liftoff a:active, footer #liftoff a:visited {
+    color: #de2015;
+}
+footer #liftoff a:hover {
+    color: #ff0e00;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, .2);
+}
+
+.rocket .rocket-body .body {
+    box-shadow: -0 5px rgba(0, 0, 0, .1);
+}
+.star li:before, .star li:after {
+    background-color: #000000;
+}
+
+
+
+#tips {
+    background-color: #ddd;
+    color: #333;
+    box-shadow: 0 5px rgba(0, 0, 0, .3);
+}
+textarea#tip {
+    background-color: #fff;
+    color: #222;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.1rem;
+}
+#tips button {
+    background-color: #fff;
+    border-color: #333;
+    color: #333;
+}
+#tips button:hover {
+    color: #000;
+    border-color: #000;
+}
+
+
+
+@media (max-width: 768px) {
+    .container.left .content, .container.right .content {
+        box-shadow: 5px 5px rgba(0, 0, 0, .1);
+    }
+
+    .container.left .eventDate {
+        text-shadow: -2px 2px 2px rgba(0, 0, 0, .2);
+    }
+
+    footer #liftoff {
+        text-shadow: -2px 2px 2px rgba(0, 0, 0, .2);
+    }
+}

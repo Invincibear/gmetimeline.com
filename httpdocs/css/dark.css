@@ -1,0 +1,279 @@
+/* https://almaer.com/blog/creating-custom-scrollbars-with-css-how-css-isnt-great-for-every-task */
+html {
+    scrollbar-color: #666 #201c29; /* Pretty sure this does nothing */
+}
+html::-webkit-scrollbar {
+    width: 16px;
+    height: 16px;
+}
+html::-webkit-scrollbar-thumb {
+    background-color: #444;
+    box-shadow: inset 2px 2px 2px hsla(0, 0%, 100%, .25), inset -2px -2px 2px rgba(0, 0, 0, .25);
+}
+html::-webkit-scrollbar-thumb:hover {
+    background-color: #666;
+}
+html::-webkit-scrollbar-thumb:active {
+    background-color: #999;
+}
+html::-webkit-scrollbar-track {
+    background: linear-gradient(90deg, #434343, #434343 1px, #111 0, #111);
+}
+html::-webkit-scrollbar-button {
+    height: 16px;
+    width: 16px;
+    background: #000 no-repeat center bottom; /* Position the triangles within the square button space */
+    background-size: 0.75em; /* Size the triangles */
+}
+/* Turn on single button up on top, and down on bottom https://stackoverflow.com/a/52028807/1707636 */
+html::-webkit-scrollbar-button:start:decrement,
+html::-webkit-scrollbar-button:end:increment {
+    display: block; /* Only want to display vertical scroll buttons */
+    border: 0 solid #434343; /* Set invisible borders to start */
+}
+/* Scrollbar up button */
+html::-webkit-scrollbar-button:start:decrement {
+    border-width: 0 0 1px 1px;
+}
+html::-webkit-scrollbar-button:vertical:start:decrement {
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23444'><polygon points='0,50 100,50 50,0'/></svg>");
+}
+html::-webkit-scrollbar-button:vertical:start:decrement:hover {
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23666'><polygon points='0,50 100,50 50,0'/></svg>");
+}
+html::-webkit-scrollbar-button:vertical:start:decrement:active {
+    background-color: #999;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23000'><polygon points='0,50 100,50 50,0'/></svg>");
+}
+/* Scrollbar down button */
+html::-webkit-scrollbar-button:end:increment {
+    border-width: 1px 0 0 1px;
+}
+html::-webkit-scrollbar-button:vertical:end:increment {
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23444'><polygon points='0,0 100,0 50,50'/></svg>");
+}
+html::-webkit-scrollbar-button:vertical:end:increment:hover {
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23666'><polygon points='0,0 100,0 50,50'/></svg>");
+}
+html::-webkit-scrollbar-button:vertical:end:increment:active {
+    background-color: #999;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100' fill='%23000'><polygon points='0,0 100,0 50,50'/></svg>");
+}
+
+body {
+    background-color: #000;
+    color: #eee;
+}
+
+a, a:visited, a:active {
+    color: #aaa;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    color: #fff;
+}
+
+
+#snackbar {
+    background-color: #5eba7d;
+    color: #fff;
+    box-shadow: 0 3px rgba(255, 255, 255, .3);
+}
+
+header #changeTheme {
+    background-color: rgba(0, 0, 0, .5);
+    color: #ddd;
+}
+header #jumpYear {
+    background-color: #222;
+    color: #eee;
+}
+header #changeTheme a i {
+    color: #fff;
+}
+header #changeTheme a i.dark {
+    color: #888;
+}
+
+header h1 {
+    text-shadow: 0 4px 4px rgba(255, 255, 255, .3);
+}
+
+header #tagFilters .tagFilter.active {
+    background-color: rgba(255, 255, 255, .2);
+}
+header #tagFilters .tagFilter.inactive {
+    background-color: rgba(255, 255, 255, .1);
+}
+header #tagFilters a.inactive {
+    color: #999;
+}
+header #tagFilters .tagFilter {
+    background-color: rgba(255, 255, 255, .1);
+}
+
+
+.content .newYear {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0 , 0, 1) 25%, rgba(0, 0, 0, 1) 75%, rgba(0, 0, 0, 0) 100%) !important;
+    /*color: #333;*/
+    text-shadow: 0 3px 3px rgba(255, 255, 255, .2);
+}
+.content .newYear.first {
+    padding-top: 0;
+    background: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 50%) !important;
+}
+.content .newYear .active {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0 , 0, 1) 25%, rgba(0, 0, 0, 1) 75%, rgba(0, 0, 0, 0) 100%) !important;
+    /*background-color: #000000 !important;*/
+}
+.content .newYear a, .content .newYear a:active, .content .newYear a:visited {
+    color: #666666;
+}
+.content .newYear a:hover {
+    color: #999999;
+    text-decoration: underline;
+}
+.content .newYear {
+    background-color: #000000;
+    color: #dddddd;
+}
+
+/* this is the main vertical timeline line */
+.timeline::after {
+    /*background: #666666;*/
+    background: linear-gradient(180deg, rgba(102, 102, 102, 1) 1%, rgba(102, 102, 102, 1) 99%, rgba(255,255,255,0) 100%);
+}
+
+.container::after {
+    background: #000000; /* Fills in the connection between vertical timeline and individual cards. Without it you see both intersecting */
+    border-color: #666666;
+}
+
+.container .eventDate {
+    text-shadow: 2px 2px 2px rgba(255, 255, 255, .2);
+    color: #666666;
+}
+.container.right .eventDate {
+    text-shadow: -2px 2px 2px rgba(255, 255, 255, .2);
+}
+
+.container .icon {
+    background: #45454b;
+    border-color: #ccc !important;
+    color: #ddd;
+}
+
+.container::before {
+    background: #666;
+}
+
+.container.left .content {
+    box-shadow: -5px 5px rgba(255, 255, 255, .1);
+}
+.container.right .content {
+    box-shadow: 5px 5px rgba(255, 255, 255, .1);
+}
+
+.container .content {
+    background: #444;
+}
+.container .content p a {
+    /*color: #ccc;*/
+}
+.container .content p code {
+    background: #666;
+    color: #ccc;
+}
+
+.container .popover__content {
+    background-color: #333;
+    /*box-shadow: 0 2px 5px 0 rgba(255, 255, 255, 0.26);*/
+}
+.container.left .popover__content {
+    box-shadow: -5px 5px rgba(255, 255, 255, .05);
+}
+.container.right .popover__content {
+    box-shadow: 5px 5px rgba(255, 255, 255, .05);
+}
+.popover__content:before {
+    border-color: transparent transparent #333 transparent;
+}
+button.share {
+    color: #ddd;
+}
+button.share:hover {
+    color: #fff;
+}
+
+.container .content h2 {
+    color: #fff;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px rgba(255, 255, 255, .2);
+}
+.container .content p, .container .content li, .container .content footer {
+    color: #aaa;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, .2);
+}
+
+.container.left::before,
+.container.right::before {
+    border-color: transparent #da362c transparent transparent;
+}
+
+
+footer {
+    border-top-color: #222 !important;
+}
+footer #liftoff {
+    text-shadow: -2px 2px 2px rgba(255, 255, 255, .2);
+}
+footer #liftoff a:hover {
+    text-shadow: 2px 2px 2px rgba(255, 255, 255, .2);
+}
+
+.rocket .rocket-body .body {
+    box-shadow: -0 5px rgba(0, 0, 0, .1);
+}
+.rocket .exhaust-flame {
+    background: linear-gradient(to bottom, transparent 10%, #ffffff 100%) !important;
+}
+.star li:before, .star li:after {
+    background-color: #ffffff;
+}
+
+
+
+#tips {
+    background-color: #222;
+    color: #eee;
+    box-shadow: 0 5px rgba(255, 255, 255, .3);
+}
+textarea#tip {
+    background-color: #333;
+    color: #ddd;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.1rem;
+}
+#tips button {
+    background-color: #444;
+    border-color: #ddd;
+    color: #ddd;
+}
+#tips button:hover {
+    color: #fff;
+    border-color: #fff;
+}
+
+
+@media (max-width: 768px) {
+    .container.left .content, .container.right .content {
+        box-shadow: 5px 5px rgba(255, 255, 255, .1);
+    }
+    .container.left .eventDate {
+        text-shadow: -2px 2px 2px rgba(255, 255, 255, .2);
+    }
+    footer #liftoff {
+        text-shadow: -2px 2px 2px rgba(255, 255, 255, .2);
+    }
+}

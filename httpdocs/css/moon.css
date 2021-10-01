@@ -1,0 +1,171 @@
+/* https://codepad.co/snippet/css-moon */
+
+.moon {
+    position: fixed;
+    left: 50%;
+    /*bottom: 569px;*/
+    top: 10%;
+    margin: 0 -150px;
+    width: 300px;
+    height: 300px;
+    background: #c7cbd0;
+    border-radius: 50%;
+    box-shadow: inset -25px 0 0 0 #9098a1;
+    /*transition: transform 0.2s ease-in-out;*/
+    z-index: -10;
+    opacity: 30%;
+}
+.moon .diamond, .moon .hands {
+    position: absolute;
+    font-size: 10rem;
+    top: 100%;
+    opacity: 10%;
+}
+.moon .diamond {
+    left: -69%;
+}
+.moon .hands {
+    right: -69%;
+}
+
+
+
+.moon li {
+    position: absolute;
+    list-style: none;
+    background: #737277;
+    border-radius: 50%;
+    z-index: -10;
+}
+.moon li:nth-child(1) {
+    left: 25px;
+    top: 60px;
+    width: 50px;
+    height: 50px;
+    box-shadow: inset 6px -2px 0 0 #414043;
+}
+.moon li:nth-child(2) {
+    left: 150px;
+    top: 50px;
+    width: 25px;
+    height: 25px;
+    box-shadow: inset 3px -1px 0 0 #414043;
+}
+.moon li:nth-child(3) {
+    left: 100px;
+    top: 150px;
+    width: 13px;
+    height: 13px;
+    box-shadow: inset 3px -1px 0 0 #414043;
+}
+.moon li:nth-child(4) {
+    left: 50px;
+    top: 150px;
+    width: 20px;
+    height: 20px;
+    box-shadow: inset 2px -1px 0 0 #414043;
+}
+.moon li:nth-child(5) {
+    left: 88px;
+    top: 17px;
+    width: 13px;
+    height: 13px;
+    box-shadow: inset 2px -1px 0 0 #414043;
+}
+.moon li:nth-child(6) {
+    left: 114px;
+    top: 80px;
+    width: 13px;
+    height: 13px;
+    box-shadow: inset 2px -1px 0 0 #414043;
+}
+.moon li:nth-child(7) {
+    left: 181px;
+    top: 100px;
+    width: 13px;
+    height: 13px;
+    box-shadow: inset 2px -1px 0 0 #414043;
+}
+.moon li:nth-child(8) {
+    left: 188px;
+    top: 117px;
+    width: 19px;
+    height: 19px;
+    box-shadow: inset 2px -1px 0 0 #414043;
+}
+.moon li:nth-child(9) {
+    left: 214px;
+    top: 180px;
+    width: 13px;
+    height: 13px;
+    box-shadow: inset 2px -1px 0 0 #414043;
+}
+.moon li:nth-child(10) {
+    left: 81px;
+    top: 200px;
+    width: 35px;
+    height: 35px;
+    box-shadow: inset 5px -4px 0 0 #414043;
+}
+.moon li:nth-child(11) {
+    left: 125px;
+    top: 160px;
+    width: 50px;
+    height: 50px;
+    box-shadow: inset 6px -2px 0 0 #414043;
+}
+.moon li:nth-child(12) {
+    left: 250px;
+    top: 150px;
+    width: 25px;
+    height: 25px;
+    box-shadow: inset 3px -1px 0 0 #414043;
+}
+.moon li:nth-child(13) {
+    left: 195px;
+    top: 245px;
+    width: 25px;
+    height: 25px;
+    box-shadow: inset 3px -1px 0 0 #414043;
+}
+.moon li:nth-child(14) {
+    left: 150px;
+    top: 250px;
+    width: 13px;
+    height: 13px;
+    box-shadow: inset 2px -1px 0 0 #414043;
+}
+
+
+@media (max-width: 767.98px) {
+    .moon .diamond, .moon .hands {
+        position: absolute;
+        font-size: 6rem;
+    }
+    .moon .diamond {
+        left: 0;
+    }
+    .moon .hands {
+        right: 0;
+    }
+}
+
+@media (max-height: 1300px) {
+    .moon {
+        bottom: 569px;
+    }
+}
+
+@media (max-height: 1000px) {
+    .moon {
+        top: -150px;
+        /*overflow: hidden;*/
+    }
+}
+
+@media (max-height: 700px) {
+    .moon {
+        top: -250px;
+        /*overflow: hidden;*/
+    }
+}

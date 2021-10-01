@@ -1,0 +1,163 @@
+#bgStars {
+    opacity: 10%;
+    z-index: -20;
+    position: relative;
+}
+#bgStars .bgStar {
+    position: fixed;
+    z-index: -20;
+}
+
+#bgStars .starSize1 {
+    transform: rotate(-1deg) scale(.3);
+    opacity: 70%;
+}
+#bgStars .starSize2 {
+    transform: rotate(-1deg) scale(1.1);
+    opacity: 80%;
+}
+#bgStars .starSize3 {
+    transform: rotate(3deg);
+}
+#bgStars .starSize4 {
+    transform: rotate(-3deg) scale(.4);
+    opacity: 70%;
+}
+#bgStars .starSize5 {
+    transform: rotate(2deg) scale(1.3);
+    opacity: 80%;
+}
+#bgStars .starSize6 {
+    transform: rotate(-2deg) scale(.9);
+}
+#bgStars .starSize7 {
+    transform: scale(.9);
+}
+#bgStars .starSize8 {
+    transform: scale(1.1);
+    opacity: 70%;
+}
+#bgStars .starSize9 {
+    transform: rotate(-4deg) scale(.9);
+    opacity: 80%;
+}
+#bgStars .starSize10 {
+    transform: rotate(4deg) scale(.7);
+}
+
+
+
+
+#bgStars .starAnimation1 {
+    animation: starAnimation1 2.5s infinite;
+    transform: rotate(-1deg) scale(.3);
+}
+#bgStars .starAnimation2 {
+    animation: starAnimation2 1.9s infinite;
+    transform: rotate(-1deg);
+}
+#bgStars .starAnimation3 {
+    animation: starAnimatio3n 3.5s infinite;
+    transform: rotate(3deg);
+}
+#bgStars .starAnimation4 {
+    animation: starAnimation4 2s infinite;
+    transform: rotate(-3deg) scale(.4);
+}
+#bgStars .starAnimation5 {
+    animation: starAnimation5 2.5s infinite;
+    transform: rotate(2deg) scale(.3);
+}
+#bgStars .starAnimation6 {
+    animation: starAnimation6 3s infinite;
+    transform: rotate(-2deg);
+}
+#bgStars .starAnimation7 {
+    animation: starAnimation7 3.5s infinite;
+}
+#bgStars .starAnimation8 {
+    animation: starAnimation8 4s infinite;
+}
+#bgStars .starAnimation9 {
+    animation: starAnimation9 4.5s infinite;
+    transform: rotate(-4deg) scale(.9);
+}
+#bgStars .starAnimation10 {
+    animation: starAnimation10 5s infinite;
+    transform: rotate(4deg) scale(.7);
+}
+
+
+
+
+@keyframes starAnimation1 {
+    0% {
+        transform: scale(.4);
+        opacity: 70%;
+    }
+    50% {
+        transform: scale(.3);
+        opacity: 100%;
+    }
+}
+@keyframes starAnimation2 {
+    20% {
+        transform: scale(1.1);
+        opacity: 80%;
+    }
+}
+@keyframes starAnimation3 {
+    70% {
+        transform: scale(.9);
+        opacity: 30%;
+    }
+}
+@keyframes starAnimation4 {
+    0% {
+        transform: scale(.5);
+        opacity: 70%;
+    }
+    50% {
+        transform: scale(.4);
+        opacity: 100%;
+    }
+}
+@keyframes starAnimation5 {
+    20% {
+        transform: scale(.4);
+        opacity: 80%;
+    }
+}
+@keyframes starAnimation6 {
+    60% {
+        transform: scale(.9);
+        opacity: 30%;
+    }
+}
+@keyframes starAnimation7 {
+    80% {
+        transform: scale(.9);
+        opacity: 30%;
+    }
+}
+@keyframes starAnimation8 {
+    0% {
+        transform: scale(1.1);
+        opacity: 70%;
+    }
+    50% {
+        transform: scale(1);
+        opacity: 100%;
+    }
+}
+@keyframes starAnimation9 {
+    20% {
+        transform: scale(.7);
+        opacity: 80%;
+    }
+}
+@keyframes starAnimation10 {
+    50% {
+        opacity: 30%;
+    }
+}
