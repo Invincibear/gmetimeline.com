@@ -184,7 +184,7 @@ $totalCitations = CountCitations($Events);
 <script src="/js/stars.js" defer></script>
 <script src="/js/share.js"></script>
 <script src="/js/tips.js" defer></script>
-<script src="https://kit.fontawesome.com/a7f4b5ef3a.js" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/2694890063.js" crossorigin="anonymous"></script>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-KGW3YHQJ9V"></script>
 <script>
