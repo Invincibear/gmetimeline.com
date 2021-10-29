@@ -65,9 +65,11 @@ class Event
             $description
         );
 
-        $pattern2 = '/\=\"https\:\/\/reddit\.com\/u\/([a-zA-Z0-9_\-]+)\"\>/m';
+        // This replaces reddit.com/u/username with reddit.com/user/username
+        // in the href="" tag. saves user's from a 301 redirect from Reddit
+        $pattern = '/\=\"https\:\/\/reddit\.com\/u\/([a-zA-Z0-9_\-]+)\"\>/m';
         $description = preg_replace(
-            $pattern2,
+            $pattern,
             '="https://reddit.com/user/$1">',
             $description
         );
