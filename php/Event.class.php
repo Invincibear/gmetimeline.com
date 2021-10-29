@@ -59,11 +59,20 @@ class Event
         // then search for r/SubReddit or u/Username and turn those into links
         // requires a lowercase u/ or r/ to link, uppercase will be ignored
         $pattern = '/"[^"]*"(*SKIP)(*FAIL)|(u|r)\/([a-zA-Z0-9_\-]+)/m'; // variable to satisfy PhpStorm
-        return preg_replace(
+        $description = preg_replace(
             $pattern,
             '<a href="https://reddit.com/$1/$2" target="_blank">$1/$2</a>',
             $description
         );
+
+        $pattern2 = '/\=\"https\:\/\/reddit\.com\/u\/([a-zA-Z0-9_\-]+)\"\>/m';
+        $description = preg_replace(
+            $pattern2,
+            '="https://reddit.com/user/$1">',
+            $description
+        );
+
+        return $description;
     }
 
 
