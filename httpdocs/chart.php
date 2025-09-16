@@ -5,11 +5,11 @@ $dotenv = Dotenv\Dotenv::createImmutable(__DIR__, '../.env');
 $dotenv->load();
 
 // Give myself extra diagnostic info
-if ($_SERVER['REMOTE_ADDR'] === $_ENV['HOME_IP']) {
-    error_reporting(E_ALL); // Report all errors
-    ini_set('display_errors', 1); // See errors' stack trace
-//    phpinfo();
-}
+// if ($_SERVER['REMOTE_ADDR'] === $_ENV['HOME_IP']) {
+//     error_reporting(E_ALL); // Report all errors
+//     ini_set('display_errors', 1); // See errors' stack trace
+// //    phpinfo();
+// }
 
 $title = 'GameStop Short FTD Squeeze Timeline';
 $url = 'gmetimeline.com';

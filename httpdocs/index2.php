@@ -5,12 +5,12 @@ require_once('../vendor/autoload.php');
 $dotenv = Dotenv\Dotenv::createImmutable(__DIR__, '../.env');
 $dotenv->load();
 echo $_SERVER['REMOTE_ADDR'];
-if ($_SERVER['REMOTE_ADDR'] === $_ENV['HOME_IP']) {
-    error_reporting(E_ALL); // Report all errors
-    ini_set('display_errors', 1); // See errors' stack trace
-//    phpinfo();
-    echo "you're home!";
-}
+// if ($_SERVER['REMOTE_ADDR'] === $_ENV['HOME_IP']) {
+//     error_reporting(E_ALL); // Report all errors
+//     ini_set('display_errors', 1); // See errors' stack trace
+// //    phpinfo();
+//     echo "you're home!";
+// }
 
 $title = 'GameStop Short FTD Squeeze Timeline';
 $url   = 'gmetimeline.com';
