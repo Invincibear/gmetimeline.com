@@ -1,0 +1,44 @@
+{
+  "2013-08-09": [
+    {
+      "headline": "SEC Releases Report On Illegal Options Trading Used to Reset Reg SHO Close-out Obligations",
+      "description": "The SEC discusses how shorted shares and delivery obligations can be hidden or delayed by utilizing the options market, resetting the FTD clock to delay having to source owed shares at a potential loss. To those willing to risk hardly-enforced illegal operations, it serves as a broad how-to guide.",
+      "source": "https://www.sec.gov/about/offices/ocie/options-trading-risk-alert.pdf",
+      "icon": "fas fa-user-secret",
+      "tags": [
+        "SEC",
+        "options"
+      ],
+      "highlighted": true,
+      "hidden": false
+    }
+  ],
+  "2013-11-15": [
+    {
+      "headline": "PlayStation 4 Launched",
+      "description": "Sony's latest gaming console supports both physical Blu-ray and digitally-downloaded games. With the digitization of console games, the company was facing an existential threat along the lines of iTunes' impact on record stores.",
+      "source": "https://en.wikipedia.org/wiki/PlayStation_4#Games",
+      "icon": "fab fa-playstation",
+      "tags": [
+        "Sony",
+        "PlayStation",
+        "digital-download"
+      ],
+      "hidden": false
+    }
+  ],
+  "2013-11-22": [
+    {
+      "headline": "Xbox One Launched",
+      "description": "Microsoft's latest gaming console supports both physical Blu-ray and digitally-downloaded games. With the digitization of console games, the company was facing an existential threat along the lines of iTunes' impact on record stores.",
+      "source": "https://en.wikipedia.org/wiki/Xbox_One#Games",
+      "icon": "fab fa-xbox",
+      "tags": [
+        "Microsoft",
+        "Xbox",
+        "digital-download"
+      ],
+      "hidden": false
+    }
+  ]
+}

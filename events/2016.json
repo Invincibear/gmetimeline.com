@@ -1,0 +1,103 @@
+{
+  "2016-02-23": [
+    {
+      "headline": "GME Quarterly Dividend Declared",
+      "description": "The Board declared a quarterly cash dividend of $0.37 per common share payable on March 22, 2016 to shareholders of record as of the close of business on March 8, 2016",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-increases-annual-cash-dividend-1",
+      "icon": "fas fa-hand-holding-usd",
+      "tags": "dividend",
+      "hidden": false
+    }
+  ],
+  "2016-03-04": [
+    {
+      "headline": "GME Announces the Pricing of Its $475 Million Offering of 6.75% Senior Notes Due March 15, 2021",
+      "description": "The offering is expected to close on March 9, 2016. Estimated net proceeds of the offering are expected to be $466 million. GameStop intends to use the net proceeds from the offering for general corporate purposes, which will likely include acquisitions and, potentially, dividends and stock buybacks.",
+      "source": "https://news.gamestop.com/node/9916",
+      "icon": "fas fa-money-bill-wave-alt",
+      "tags": "senior-notes",
+      "hidden": false
+    }
+  ],
+  "2016-03-02": [
+    {
+      "headline": "Moody's Assigns Ba1 Rating to GameStop's Proposed $400M Senior Unsecured Notes",
+      "description": "Moody's assigned a Ba1 rating to GameStop's proposed $400 million senior unsecured notes. There is no impact on the Ba1 Corporate Family Rating, SGL-1 Speculative Grade Liquidity rating, or the stable outlook.\n\n&quot;We believe the bulk of the proposed debt issuance will fund tactical acquisitions, with GameStop indicating it was in the process of acquiring two AT&T resellers with a combined total of between 450-500 locations,&quot; stated Moody's Vice President Charlie O'Shea. &quot;These potential acquisitions are in line with our view that GameStop is prudently diversifying its business,&quot; continued O'Shea. &quot;We believe pro forma metrics will initially weaken due to this, however will remain well within our band of tolerance for the rating.&quot;",
+      "source": "https://www.moodys.com/research/Moodys-assigns-Ba1-rating-to-GameStops-proposed-400-million-senior--PR_344918",
+      "icon": "fas fa-thumbs-up",
+      "tags": [
+        "Moodys",
+        "ratings"
+      ],
+      "hidden": false
+    }
+  ],
+  "2016-05-02": [
+    {
+      "headline": "Co-Founder & BOD Member Richard Fontaine Retires",
+      "description": "Richard, along with Dan DeMatteo and Len Riggio, founded in 1996 what would later become GameStop. He served as CEO from 1996-2002  and took on the role of chairman of the board from 2002-2008. From 2008-201 he served as executive chairman and eventually chairman international from 2010-2013. Led by Richard's entrepreneurial spirit, GameStop grew from a small, mall-based store chain into the world's largest video game specialty retailer with more than 7K stores operating in 14 countries",
+      "source": "https://news.gamestop.com/node/9936",
+      "icon": "fas fa-hiking",
+      "tags": [
+        "board-of-directors",
+        "appointment"
+      ],
+      "hidden": false
+    }
+  ],
+  "2016-08-02": [
+    {
+      "headline": "GameStop Buys 507 AT&T Stores",
+      "description": "GameStop flirts with diversifying from their primary industry, gaming, into the mobile phone space with their Spring Mobile subsidiary",
+      "source": "https://www.gamesindustry.biz/articles/2016-08-02-gamestop-acquires-507-at-and-t-mobile-stores",
+      "icon": "fas fa-mobile-alt",
+      "tags": [
+        "acquisitions",
+        "Spring-Mobile"
+      ],
+      "hidden": false
+    }
+  ],
+  "2016-05-16": [
+    {
+      "headline": "Melvin Capital Files 13F, First Revealing 3,000 $GME Put Contracts",
+      "description": "Reporting up until 03/31/2016, this is the first 13F SEC filing containing a GameStop position. The 3k put contracts were worth ~$9.5M",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001628110/000117266116003355/0001172661-16-003355-index.html",
+      "icon": "fas fa-toilet",
+      "tags": [
+        "SEC",
+        "filing",
+        "Melvin-Capital"
+      ],
+      "hidden": false
+    }
+  ],
+  "2016-08-15": [
+    {
+      "headline": "Melvin Capital Files 13F Revealing Closed-Out $GME Position",
+      "description": "Reporting up until 06/30/2016, GameStop was not listed on this 13F, their only 13F filing to-date without GameStop",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001628110/000117266116003812/0001172661-16-003812-index.html",
+      "icon": "fas fa-toilet",
+      "tags": [
+        "SEC",
+        "filing",
+        "Melvin-Capital"
+      ],
+      "hidden": false
+    }
+  ],
+  "2016-11-14": [
+    {
+      "headline": "Melvin Capital Files 13F Revealing 4,000 $GME Put Contracts",
+      "description": "Reporting up until 09/30/2016. The 4k put contracts were worth ~$11M",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001628110/000117266116004207/0001172661-16-004207-index.html",
+      "icon": "fas fa-toilet",
+      "tags": [
+        "SEC",
+        "filing",
+        "Melvin-Capital"
+      ],
+      "hidden": false
+    }
+  ]
+}

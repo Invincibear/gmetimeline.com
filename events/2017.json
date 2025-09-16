@@ -1,0 +1,143 @@
+{
+  "2017-02-14": [
+    {
+      "headline": "Melvin Capital Files 13F Revealing 15,000 $GME Put Contracts",
+      "description": "Reporting up until 12/31/2016. The 15k put contracts were worth ~$37.9M",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001628110/000117266117000634/0001172661-17-000634-index.html",
+      "icon": "fas fa-toilet",
+      "tags": [
+        "SEC",
+        "filing",
+        "Melvin-Capital"
+      ],
+      "hidden": false
+    }
+  ],
+  "2017-03-01": [
+    {
+      "headline": "GME Quarterly Dividend Declared",
+      "description": "The Board declared a quarterly cash dividend of $0.38 per common share payable on March 28, 2017 to shareholders of record as of the close of business on March 14, 2017",
+      "source": "https://news.gamestop.com/node/10146",
+      "icon": "fas fa-hand-holding-usd",
+      "tags": "dividend",
+      "hidden": false
+    }
+  ],
+  "2017-03-23": [
+    {
+      "headline": "GameStop Reports Q4 2016 Earnings",
+      "description": "Total global sales decreased 13.6% to $3.05 billion, while consolidated comparable store sales declined 16.3% (-20.8% in the U.S. and -4.6% internationally). The fourth quarter was significantly impacted by weak sales of certain AAA titles and aggressive console promotions by other retailers on Thanksgiving Day and Black Friday. As a result, new hardware sales declined 29.1% and new software sales declined by 19.3%",
+      "source": [
+        "https://news.gamestop.com/node/10166",
+        "https://www.fool.com/investing/2017/03/24/gamestop-corp-projects-a-profit-decline-in-2017.aspx"
+      ],
+      "icon": "far fa-newspaper",
+      "tags": ["earnings"],
+      "hidden": false
+    },
+    {
+      "headline": "GameStop Closing 2-3% of Stores",
+      "description": "GameStop anticipates that it will close between 2% to 3% of its global store footprint (up to ~190 stores)",
+      "source": [
+        "https://news.gamestop.com/node/10166",
+        "https://money.cnn.com/2017/03/25/news/companies/gamestop-stores-closing/"
+      ],
+      "icon": "fas fa-store-slash",
+      "tags": ["stores"],
+      "hidden": false
+    }
+  ],
+  "2017-03-24": [
+    {
+      "headline": "Wedbush Rates GameStop as &quot;Outperform&quot;",
+      "description": "&quot;The Wedbush View: We expect shares to trade at a compressed EPS multiple until GameStop slows the decline in its core video game business.&quot; Wedbush lowered their 12mo outlook from $28 to $25.",
+      "source": [
+        "https://equities.wedbush.com/clientsite/Research/ActionAlertFilePreview.asp?UUID=26D06797-F039-4C21-8E2E-3A6E9C3CB250&ViewerID=1CE41D7D-B184-45DA-AF98-1334A2E3030F"
+      ],
+      "icon": "fas fa-thumbs-up",
+      "tags": [
+        "ratings"
+      ],
+      "hidden": false
+    }
+  ],
+  "2017-05-15": [
+    {
+      "headline": "Melvin Capital Files 13F Revealing 10,647 $GME Put Contracts",
+      "description": "Reporting up until 03/31/2017. The 10,647 put contracts were worth ~$24M",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001628110/000117266117001090/0001172661-17-001090-index.html",
+      "icon": "fas fa-toilet",
+      "tags": [
+        "SEC",
+        "filing",
+        "Melvin-Capital"
+      ],
+      "hidden": false
+    }
+  ],
+  "2017-08-14": [
+    {
+      "headline": "Melvin Capital Files 13F Revealing 19,558 $GME Put Contracts",
+      "description": "Reporting up until 06/30/2017. The 19,558 put contracts were worth ~$42.3M",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001628110/000117266117001594/0001172661-17-001594-index.html",
+      "icon": "fas fa-toilet",
+      "tags": [
+        "SEC",
+        "filing",
+        "Melvin-Capital"
+      ],
+      "hidden": false
+    }
+  ],
+  "2017-08-23": [
+    {
+      "headline": "New Senior VP of Collectibles Janet Bareis Hired",
+      "description": "<img src=\"/img/VP-Janet_Bareis.jpg\" width=\"2048\" height=\"1414\" class=\"headshot\" loading=\"lazy\">Ms. Bareis has 20+ years of senior management experience leading marketing and merchandising. She spent 11 years with Walmart as VP and general manager of private brands with responsibility for product development, brand acquisitions and management, licensing negotiation and packaging. Prior to Walmart, Ms. Bareis spent 14yrs in national sales, sport and entertainment marketing and brand innovation leadership positions with Frito-Lay",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-new-senior-vice-president-collectibles-0",
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "appointment"
+      ],
+      "hidden": false
+    }
+  ],
+  "2017-11-14": [
+    {
+      "headline": "Melvin Capital Files 13F Revealing 4,659 $GME Put Contracts",
+      "description": "Reporting up until 09/30/2017. The 4,659 put contracts were worth ~$9.6M",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001628110/000117266117002043/0001172661-17-002043-index.html",
+      "icon": "fas fa-toilet",
+      "tags": [
+        "SEC",
+        "filing",
+        "Melvin-Capital"
+      ],
+      "hidden": false
+    }
+  ],
+  "2017-11-17": [
+    {
+      "headline": "CEO Paul Raines Takes Medical LOA",
+      "description": "<img src=\"/img/CEO-Paul_Raines.jpg\" width=\"1024\" height=\"934\" class=\"headshot\" loading=\"lazy\">Mr. Raines, has had a recurrence of his previously disclosed brain tumor which was successfully removed in 2014 and is seeking treatment",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-appoints-daniel-dematteo-interim-ceo",
+        ""
+      ],
+      "icon": "fas fa-stethoscope",
+      "tags": [
+        "appointment"
+      ],
+      "hidden": false
+    },
+    {
+      "headline": "New Interim CEO Daniel A. DeMatteo Appointed",
+      "description": "<img src=\"/img/founder-Daniel_DeMatteo.jpg\" width=\"1175\" height=\"1762\" class=\"headshot\" loading=\"lazy\">Mr. DeMatteo, one of the company's co-founders, will continue to serve as executive chairman and director. In the past, Mr. DeMatteo has served as the company's CEO and in a variety of board and executive roles since November 1996",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-appoints-daniel-dematteo-interim-ceo",
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "appointment"
+      ],
+      "hidden": false
+    }
+  ]
+}

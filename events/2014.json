@@ -1,0 +1,42 @@
+{
+  "2014-05-02": [
+    {
+      "headline": "GameStop's Short Interest Markedly Increases",
+      "description": "According to IHS Markit, on May 2nd GameStop's percentage of shares on loan increased to ~26% from ~18%, which was closer to ~12% a year prior. By the end of the week the percentage had increased to ~29%. This is accompanied by a ~10% decrease in share price.",
+      "source": [
+        "https://ihsmarkit.com/research-analysis/14112014-Equities-Most-shorted-of-the-week.html",
+        "https://www.reddit.com/r/Superstonk/comments/nuxwsi/when_did_gamestop_shorting_started_after_all/"
+      ],
+      "icon": "fas fa-percentage",
+      "tags": [
+        "$GME"
+      ]
+    }
+  ],
+  "2014-07-11": [
+    {
+      "headline": "GameStop's Short Interest Markedly Increases, Again",
+      "description": "According to IHS Markit, on July 11th GameStop's percentage of shares on loan increased to ~32% from ~25% earlier that week, which was closer to ~13% a year prior.",
+      "source": [
+        "https://ihsmarkit.com/research-analysis/25112014-Equities-Retailers-on-short-seller-holiday-list.html",
+        "https://www.reddit.com/r/Superstonk/comments/nuxwsi/when_did_gamestop_shorting_started_after_all/"
+      ],
+      "icon": "fas fa-percentage",
+      "tags": [
+        "$GME"
+      ]
+    }
+  ],
+  "2014-09-16": [
+    {
+      "headline": "Moody's Assigns New Ratings to GameStop; Corporate Family Rating at Ba1; Outlook Stable",
+      "description": "Moody's assigned new ratings to GameStop, including Ba1 corporate family and Ba1-PD probability of default ratings, a Ba1 rating on the company's proposed new $250 million senior unsecured notes, and an SGL-1 speculative grade liquidity rating. A stable outlook was also assigned.",
+      "source": "https://www.moodys.com/research/Moodys-assigns-new-ratings-to-GameStop-Corporate-Family-Rating-at--PR_308522",
+      "icon": "fas fa-thumbs-up",
+      "tags": [
+        "Moodys",
+        "ratings"
+      ]
+    }
+  ]
+}

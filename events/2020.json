@@ -1,0 +1,832 @@
+{
+  "2020-01-14": [
+    {
+      "headline": "Wedbush Maintains Buy Rating For GameStop, Price Target of $8.00",
+      "description": "In a report released today, Michael Pachter from Wedbush reiterated a Buy rating on GameStop, with a price target of $8.00. $GME shares closed last Monday at $5.43, close to its 52-week low of $3.15. Currently, the analyst consensus on GameStop is a Hold with an average price target of $5.36.",
+      "source": [
+        "https://www.analystratings.com/articles/wedbush-keeps-their-buy-rating-on-gamestop-gme/",
+        "https://www.marketbeat.com/ratingsdb/details/1329798/"
+      ],
+      "icon": "fas fa-thumbs-down",
+      "tags": [
+        "analyst"
+      ]
+    }
+  ],
+  "2020-01-30": [
+    {
+      "headline": "Moody's Downgrades GameStop's CFR to B2",
+      "description": "Moody's downgraded GameStop's Corporate Family Rating to B2 from Ba2, Probability of Default Rating to B2-PD from Ba2-PD, and 6.75% senior unsecured notes to B3 from Ba2. The company's Speculative Grade Liquidity rating was downgraded to SGL-2 from SGL-1. The outlook is stable.\n\nCredit downgrades make it more difficult to raise money directly from institutional investors and with disadvantageous terms.",
+      "source": "https://www.moodys.com/research/Moodys-downgrades-GameStops-CFR-to-B2--PR_417805",
+      "icon": "fas fa-thumbs-down",
+      "tags": [
+        "Moodys",
+        "ratings"
+      ]
+    }
+  ],
+  "2020-02-14": [
+    {
+      "headline": "Melvin Capital Files 13F Revealing 40k $GME Put Contracts",
+      "description": "Reporting up until 12/31/2019. The 40k put contracts were worth ~$24.3M",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001628110/000090571820000211/0000905718-20-000211-index.html",
+      "icon": "fas fa-toilet",
+      "tags": [
+        "SEC",
+        "filing",
+        "Melvin-Capital"
+      ]
+    }
+  ],
+  "2020-03-09": [
+    {
+      "headline": "Reggie Fils-Aim\u00e9 Appointed to BOD",
+      "description": "<img src=\"/img/BOD-Reggie_Fils_Aime.jpg\" class=\"headshot\" width=\"726\" height=\"806\" loading=\"lazy\">GameStop has appointed former Nintendo of America head Reggie Fils-Aim\u00e9 to its board of directors",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-appoints-reginald-fils-aime-william-simon-and-james",
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "board-of-directors",
+        "appointment"
+      ]
+    },
+    {
+      "headline": "Bill Simon Appointed to BOD",
+      "description": "<img src=\"/img/BOD-Bill_Simon.jpg\" class=\"headshot\" width=\"938\" height=\"1024\" loading=\"lazy\">GameStop has appointed former CEO of Walmart US William \"Bill\" Simon to its board of directors",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-appoints-reginald-fils-aime-william-simon-and-james",
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "board-of-directors",
+        "appointment"
+      ]
+    },
+    {
+      "headline": "James \"JK\" Symancyk Appointed to BOD",
+      "description": "<img src=\"/img/BOD-James_Symancyk.jpg\" class=\"headshot\" width=\"672\" height=\"1008\" loading=\"lazy\">GameStop has appointed current PetSmart president and CEO JK Symancyk to its board of directors",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-appoints-reginald-fils-aime-william-simon-and-james",
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "board-of-directors",
+        "appointment"
+      ]
+    }
+  ],
+  "2020-03-19": [
+    {
+      "headline": "GameStop Claims To Be Essential Retail During Global Pandemic",
+      "description": "The struggling video game retail chain GameStop told all of its stores this afternoon to stay open even in the event of state or city lockdowns to protect against the covid-19 pandemic, emphasizing that it is “essential retail” alongside groceries and pharmacies and should therefore be exempt from enforced closures, a contentious claim.\n\n“Due to the products we carry that enable and enhance our customers’ experience in working from home, we believe GameStop is classified as essential retail and therefore is able to remain open during this time,” the retailer said in a memo to staff, obtained by Kotaku.",
+      "source": [
+        "https://kotaku.com/gamestop-we-can-stay-open-during-lockdowns-because-wer-1842415962",
+        "https://www.bloomberg.com/news/articles/2020-03-20/gamestop-slides-on-view-pandemic-will-force-store-closures"
+      ],
+      "icon": "fas fa-store-alt",
+      "tags": [
+        "news",
+        "COVID19"
+      ]
+    }
+  ],
+  "2020-03-20": [
+    {
+      "headline": "Wedbush Downgrades GameStop Rating to Neutral, Reduces Price Target to $4.25",
+      "description": "Michael Pachter from Wedbush downgraded their rating on GameStop to Neutral from Outperform and reduced their price target to $4.25 from $8.00.",
+      "source": [
+        "https://www.bloomberg.com/news/terminal/Q7HORTT0AFB6",
+        "https://www.marketbeat.com/ratingsdb/details/1370257/",
+        "https://www.bloomberg.com/news/articles/2020-03-20/gamestop-slides-on-view-pandemic-will-force-store-closures"
+      ],
+      "icon": "fas fa-thumbs-down",
+      "tags": [
+        "analyst"
+      ]
+    },
+    {
+      "headline": "Benchmark Maintains GameStop Sell Rating and Price Target of $3.00",
+      "description": "“We do not believe GME qualifies as an essential retailer,” wrote Benchmark Co. analyst Mike Hickey, who added that “recent media attention will likely accelerate potential closures” at the company. He reiterated his sell rating and $3 price target, and forecast “continued weakness over the next several quarters.”",
+      "source": [
+        "https://www.bloomberg.com/news/articles/2020-03-20/gamestop-slides-on-view-pandemic-will-force-store-closures",
+        "https://www.marketbeat.com/ratingsdb/details/1370808/"
+      ],
+      "icon": "fas fa-thumbs-down",
+      "tags": [
+        "analyst"
+      ]
+    }
+  ],
+  "2020-03-27": [
+    {
+      "headline": "Wedbush Maintains Hold Rating For GameStop, Price Target of $4.25",
+      "description": "Michael Pachter from Wedbush maintained a Hold rating on GameStop with a price target of $4.25. $GME shares closed last Monday at $4.41. The word on The Street in general, suggests a Moderate Sell analyst consensus rating for GameStop with a $3.63 average price target.",
+      "source": [
+        "https://www.analystratings.com/articles/gamestop-gme-receives-a-hold-from-wedbush/",
+        "https://www.marketbeat.com/ratingsdb/details/1375926/"
+      ],
+      "icon": "fas fa-praying-hands",
+      "tags": [
+        "analyst"
+      ]
+    }
+  ],
+  "2020-03-28": [
+    {
+      "headline": "Hestia Capital Files Proxy Statement Nominating Hestia's Kurt Wolf to BOD",
+      "description": "",
+      "source": [
+        "https://www.sec.gov/Archives/edgar/data/1326380/000092189519000922/dfan14a12166002_03282019.htm",
+        "https://www.globenewswire.com/NewsRoom/AttachmentNg/68caf3fc-5781-4510-bf81-67d80aab708d/en",
+        "https://news.gamestop.com/static-files/22612a39-958f-4f6f-9538-26ccac1404d2"
+      ],
+      "icon": "far fa-check-square",
+      "tags": [
+        "Hestia-Capital",
+        "board-of-directors",
+        "filing",
+        "proxy"
+      ]
+    }
+  ],
+  "2020-03-30": [
+    {
+      "headline": "$GME 2020 Low of $2.57/share",
+      "description": "",
+      "source": "https://finance.yahoo.com/chart/GME",
+      "icon": "far fa-thumbs-down",
+      "tags": "$GME"
+    }
+  ],
+  "2020-03-31": [
+    {
+      "headline": "S&amp;P Global Ratings Downgrades GameStop Local Currency LT Credit Rating to B- From B+",
+      "description": "The outlook is developing.",
+      "source": "https://cbonds.com/news/1212495/",
+      "icon": "fas fa-thumbs-down",
+      "tags": ["S&P", "ratings"]
+    }
+  ],
+  "2020-04-02": [
+    {
+      "headline": "Dr. Burry Files 13D Revealing Increased 3.4M $GME Shares Position",
+      "description": "Dr. Burry's then 5.3% position has fluctuated over the years, this is seen as a bullish sign as he previously held 3M shares, with his now 3.4M shares worth ~$9.7M.",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001649339/000090514820000491/efc20-335_sc13d.htm",
+      "icon": "fas fa-file-upload",
+      "tags": [
+        "SEC",
+        "filing",
+        "Dr-Michael-Burry"
+      ]
+    }
+  ],
+  "2020-04-22": [
+    {
+      "headline": "Moody's Downgrades GameStop's CFR to Caa1, Changes Outlook to Negative",
+      "description": "Moody's downgraded the ratings of GameStop including its Corporate Family Rating to Caa1 from B2, Probability of Default Rating to Caa1-PD from B2-PD, and 6.75% senior unsecured note rating to Caa2 from B3. At the same time, the company's Speculative Grade Liquidity rating was downgraded to SGL-3 from SGL-2. The outlook was also changed to negative from stable.\n\n&quot;The downgrade reflects Moody's expectation that given our forecast of lower earnings in 2020 compared to 2019, GameStop's EBIT/interest expense will be below 1.0x, which despite the expected benefit of the launch of new consoles could make it difficult for GameStop to refinance its unsecured notes that mature in March 2021 on economic terms,&quot; stated Pete Trombetta, AVP-Analyst at Moody's.\n\nCredit downgrades make it more difficult to raise money directly from institutional investors and with disadvantageous terms.",
+      "source": "https://www.moodys.com/research/Moodys-downgrades-GameStops-CFR-to-Caa1-changes-outlook-to-negative--PR_422964",
+      "icon": "fas fa-thumbs-down",
+      "tags": [
+        "Moodys",
+        "ratings"
+      ]
+    }
+  ],
+  "2020-04-24": [
+    {
+      "headline": "Hestia Capital Files Proxy Statement",
+      "description": "The proxy statement is rich with information about how the current BOD has failed investors and Hestia's proposals for rectifying the situation",
+      "source": "https://www.sec.gov/Archives/edgar/data/1326380/000092189520001185/defc14a12166002_04242020.htm",
+      "icon": "far fa-check-square",
+      "tags": [
+        "Hestia-Capital",
+        "board-of-directors",
+        "filing",
+        "proxy"
+      ]
+    }
+  ],
+  "2020-05-04": [
+    {
+      "headline": "Dr. Burry Files 13D Revealing Decreased ~2.8M $GME Shares Position",
+      "description": "Dr. Burry's new 4.3% position decreased by ~600k shares to a total of 2,801,929 shares, worth ~$15.4M.",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001649339/000090514820000563/efc20-411_sc13da.htm",
+      "icon": "fas fa-file-download",
+      "tags": [
+        "SEC",
+        "filing",
+        "Dr-Michael-Burry"
+      ]
+    }
+  ],
+  "2020-05-11": [
+    {
+      "headline": "GameStop BOD Urges Shareholders to Re-Elect BOD Members",
+      "description": "Feeling threatened by Hestia & Permit's desires to turn around the company and force the BOD to act in the best interest of the long-term future of the company, they release a statement urging shareholders to vote to maintain the status-quo",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-recommends-stockholders-vote-blue-proxy-card-support",
+      "icon": "far fa-check-square",
+      "tags": [
+        "board-of-directors",
+        "Hestia-Capital",
+        "Permit-Enterprise",
+        "proxy"
+      ]
+    }
+  ],
+  "2020-05-15": [
+    {
+      "headline": "Melvin Capital Files 13F Revealing 28k $GME Put Contracts",
+      "description": "Reporting up until 3/31/2020. The 28k put contracts were worth ~$9.8M",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001628110/000090571820000457/0000905718-20-000457-index.html",
+      "icon": "fas fa-toilet",
+      "tags": [
+        "SEC",
+        "filing",
+        "Melvin-Capital"
+      ]
+    }
+  ],
+  "2020-05-20": [
+    {
+      "headline": "Hestia Capital Files Proxy Statement For Upcoming Vote",
+      "description": "<img src=\"/img/Hestia-Restore_GameStop.png\" width=\"1280\" height=\"720\" loading=\"lazy\"><a href=\"https://www.sec.gov/Archives/edgar/data/1326380/000092189520001510/ex1todfan14a12166002_051920.pdf\" target=\"_blank\">The proxy statement</a> is rich with information about how the current board of directors has failed investors and Hestia's proposals for rectifying the situation",
+      "source": "https://www.sec.gov/Archives/edgar/data/1326380/000092189520001510/ex1todfan14a12166002_051920.pdf",
+      "icon": "far fa-check-square",
+      "tags": [
+        "Hestia-Capital",
+        "board-of-directors",
+        "filing",
+        "proxy"
+      ]
+    }
+  ],
+  "2020-06-03": [
+    {
+      "headline": "Dr. Burry Votes on BOD Nominees",
+      "description": "Dr. Burry voted for the 10 members proposed by the current board, voting against the two members proposed by Hestia & Permit",
+      "source": "https://www.businesswire.com/news/home/20200603005929/en/Scion-Asset-Management-Voted-in-Support-of-GameStop%E2%80%99s-Board-and-Management",
+      "icon": "fas fa-vote-yea",
+      "tags": [
+        "Dr-Michael-Burry",
+        "board-of-directors",
+        "proxy"
+      ]
+    }
+  ],
+  "2020-06-04": [
+    {
+      "headline": "GameStop Reports Q1 2020 Preliminary Earnings",
+      "description": "COVID-19 hit GameStop sales in all markets hard, except Australia & New Zealand",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-first-quarter-fiscal-2020-preliminary-results",
+      "icon": "far fa-newspaper",
+      "tags": "earnings"
+    },
+    {
+      "headline": "GameStop Announces Senior Notes Exchange Offer",
+      "description": "GameStop plans to convert all outstanding $414.6M of 6.75% Senior Notes due 2021 into 10% Senior Secured Notes due 2023.",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-exchange-offer-and-consent-solicitation",
+      "icon": "fas fa-money-bill-wave-alt",
+      "tags": "senior-notes"
+    }
+  ],
+  "2020-06-05": [
+    {
+      "headline": "Moody's Places GameStop's Ratings Under Review",
+      "description": "Moody's placed the ratings of GameStop on review for upgrade, including its Caa1 Corporate Family Rating (CFR), Caa1-PD Probability of Default Rating, and Caa2 senior unsecured rating. Moody's also assigned a B3 rating to GameStop's proposed senior secured notes and placed the rating on review for upgrade. The company's Speculative Grade Liquidity rating remains SGL-3.\n\n&quot;The review will focus on the company's success in refinancing its existing senior unsecured notes which mature in March 2021 and the final terms of the exchange, including the amount of unsecured notes exchanged,&quot; stated Pete Trombetta, Assistant Vice President at Moody's. GameStop is offering the holders of the existing 6.75% senior notes due 2021 to exchange those notes for 10% senior secured notes due March 2023.",
+      "source": "https://www.moodys.com/research/Moodys-places-GameStops-ratings-including-its-Caa1-CFR-under-review--PR_425579",
+      "icon": "fas fa-praying-hands",
+      "tags": [
+        "Moodys",
+        "ratings",
+        "analyst"
+      ]
+    }
+  ],
+  "2020-06-09": [
+    {
+      "headline": "Credit Suisse Lowers Price Target To $3.50",
+      "description": "Credit Suisse analyst Seth Sigman maintained a Sell rating on GameStop and set a price target of $3.50. The company's shares closed last Wednesday at $5.35. The word on The Street in general, suggests a Moderate Sell with an average price target of $4.08.",
+      "source": [
+        "https://www.analystratings.com/articles/credit-suisse-sticks-to-their-sell-rating-for-gamestop-gme/"
+      ],
+      "icon": "fas fa-thumbs-down",
+      "tags": [
+        "analyst"
+      ]
+    }
+  ],
+  "2020-06-10": [
+    
+  ],
+  "2020-06-12": [
+    {
+      "headline": "GameStop Reports Preliminary Voting Results from AGM",
+      "description": "Hestia & Permit succeed in gaining seats on the BOD, along with their previous recommendations of Lizabeth Dunn & Raul Fernandez.",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-preliminary-voting-results-annual-meeting"
+      ],
+      "icon": "far fa-check-square",
+      "tags": [
+        "board-of-directors",
+        "proxy"
+      ]
+    },
+    {
+      "headline": "Kurt Wolf Elected to BOD",
+      "description": "<img src=\"/img/BOD-Kurt_Wolf.jfif\" class=\"headshot\" width=\"450\" height=\"450\" loading=\"lazy\">Mr. Wolf is the Managing Member and CIO of Hestia Capital. Previously, Mr. Wolf worked in a variety of financial, investing and operating roles, at First Q Capital, and as a co-Founding Partner at Lemhi Ventures. Earlier in his career, Mr. Wolf worked as a consultant both with Deloitte Consulting and The Boston Consulting Group. Mr. Wolf earned a MBA from Stanford and a BA in Economics and Mathematics from Carleton. Mr. Wolf joined the board in 2020 and serves as a member of the Nominating and Corporate Governance Committee.",
+      "source": [
+        [
+          "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-preliminary-voting-results-annual-meeting"
+        ],
+        "https://investor.gamestop.com/board-member/kurt-wolf"
+      ],
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "board-of-directors",
+        "appointment",
+        "Hestia-Capital"
+      ]
+    },
+    {
+      "headline": "Paul Evans Elected to BOD",
+      "description": "<img src=\"/img/BOD-Paul_Evans.jpg\" class=\"headshot\" width=\"335\" height=\"240\" loading=\"lazy\">Mr. Evans is a Senior Managing Director at Dillon Kane Group. Additionally, Mr. Evans is a Board Director at Hill International. Prior to this, Mr. Evans served in a variety of senior executive roles at MYR Group. Earlier in his career, Mr. Evans held a number of executive management positions at several energy-related businesses. Mr. Evans is a CPA and a member of the American Institute of Certified Public Accountants. Mr. Evans received a B.B.A in Accounting from Stephen F. Austin State University and a Masters of International Management from Thunderbird School of Global Management. Mr. Evans joined the board in 2020 and serves as a member of the Audit Committee.",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-preliminary-voting-results-annual-meeting",
+        "https://investor.gamestop.com/board-member/paul-evans"
+      ],
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "board-of-directors",
+        "appointment",
+        "Permit-Enterprise"
+      ]
+    },
+    {
+      "headline": "George Sherman, CEO, Re-Elected to BOD",
+      "description": "<img src=\"/img/CEO-George_Sherman.png\" class=\"headshot\" width=\"508\" height=\"588\" loading=\"lazy\">",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-preliminary-voting-results-annual-meeting",
+        "https://investor.gamestop.com/board-member/george-sherman"
+      ],
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "board-of-directors",
+        "appointment"
+      ]
+    },
+    {
+      "headline": "Lizabeth Dunn Re-Elected to BOD",
+      "description": "<img src=\"/img/BOD-Lizabeth_Dunn.jpg\" class=\"headshot\" width=\"400\" height=\"400\" loading=\"lazy\">",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-preliminary-voting-results-annual-meeting",
+        "https://investor.gamestop.com/board-member/lizabeth-dunn"
+      ],
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "board-of-directors",
+        "appointment"
+      ]
+    },
+    {
+      "headline": "Raul Fernandez Re-Elected to BOD",
+      "description": "<img src=\"/img/BOD-Raul_Fernandez.jpg\" class=\"headshot\" width=\"500\" height=\"500\" loading=\"lazy\">",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-preliminary-voting-results-annual-meeting",
+        "https://investor.gamestop.com/board-member/raul"
+      ],
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "board-of-directors",
+        "appointment"
+      ]
+    },
+    {
+      "headline": "Reginald Fils-Aim\u00e9 Re-Elected to BOD",
+      "description": "<img src=\"/img/BOD-Reggie_Fils_Aime.jpg\" class=\"headshot\" width=\"726\" height=\"806\" loading=\"lazy\">",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-preliminary-voting-results-annual-meeting",
+        "https://investor.gamestop.com/board-member/reginald-fils-aime"
+      ],
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "board-of-directors",
+        "appointment"
+      ]
+    },
+    {
+      "headline": "Bill Simon Re-Elected to BOD",
+      "description": "<img src=\"/img/BOD-Bill_Simon.jpg\" class=\"headshot\" width=\"938\" height=\"1024\" loading=\"lazy\">",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-preliminary-voting-results-annual-meeting",
+        "https://investor.gamestop.com/board-member/william-simon"
+      ],
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "board-of-directors",
+        "appointment"
+      ]
+    },
+    {
+      "headline": "JK Cymancyk Re-Elected to BOD",
+      "description": "<img src=\"/img/BOD-James_Symancyk.jpg\" class=\"headshot\" width=\"672\" height=\"1008\" loading=\"lazy\">",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-preliminary-voting-results-annual-meeting"
+      ],
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "board-of-directors",
+        "appointment"
+      ]
+    },
+    {
+      "headline": "Carrie Teffner Re-Elected to BOD",
+      "description": "<img src=\"/img/BOD-Carrie_Teffner.jfif\" class=\"headshot\" width=\"183\" height=\"275\" loading=\"lazy\">",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-preliminary-voting-results-annual-meeting",
+        "https://investor.gamestop.com/board-member/carrie-teffner"
+      ],
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "board-of-directors",
+        "appointment"
+      ]
+    },
+    {
+      "headline": "Kathy Vrabeck Re-Elected to BOD",
+      "description": "<img src=\"/img/BOD-Kathy_Vrabeck.jpeg\" class=\"headshot\" width=\"300\" height=\"450\" loading=\"lazy\">",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-preliminary-voting-results-annual-meeting",
+        "https://investor.gamestop.com/board-member/Kathy-Vrabeck"
+      ],
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "board-of-directors",
+        "appointment"
+      ]
+    },
+    {
+      "headline": "Daniel DeMatteo Retires From GameStop BOD",
+      "description": "&quot;I would also like to thank Daniel DeMatteo for his years of service as Executive Chairman, former CEO and co-founder. Dan\u2019s passion for our business inspired us to grow from a small software retailer to the world's largest video game omni-channel retailer offering the best selection of new and pre-owned video gaming consoles, accessories and video game titles, in both physical and digital formats,&quot; said Kathy Vrabeck, Chair of the Board.",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-preliminary-voting-results-annual-meeting"
+      ],
+      "icon": "fas fa-hiking",
+      "tags": [
+        "resignation",
+        "board-of-directors"
+      ]
+    },
+    {
+      "headline": "Gerald Szczepanski Retires From GameStop BOD",
+      "description": "Mr. Szczepanski has served on the board since 2002.",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-preliminary-voting-results-annual-meeting"
+      ],
+      "icon": "fas fa-hiking",
+      "tags": [
+        "resignation",
+        "board-of-directors"
+      ]
+    },
+    {
+      "headline": "Larry Zilavy Retires From GameStop BOD",
+      "description": "",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-preliminary-voting-results-annual-meeting"
+      ],
+      "icon": "fas fa-hiking",
+      "tags": [
+        "resignation",
+        "board-of-directors"
+      ]
+    },
+    {
+      "headline": "Steven Koonin Retires From GameStop BOD",
+      "description": "",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-preliminary-voting-results-annual-meeting"
+      ],
+      "icon": "fas fa-hiking",
+      "tags": [
+        "resignation",
+        "board-of-directors"
+      ]
+    }
+  ],
+  "2020-07-06": [
+    {
+      "headline": "GameStop Completes Senior Notes Exchange Offer",
+      "description": "GameStop converted ~$216.4M of 6.75% Senior Notes due 2021 into 10% Senior Secured Notes due 2023.",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-expiration-and-final-results-exchange-offer",
+      "icon": "fas fa-money-bill-wave-alt",
+      "tags": "senior-notes"
+    }
+  ],
+  "2020-07-08": [
+    {
+      "headline": "Moody's Upgrades GameStop's CFR to B3, Changes Outlook to Stable",
+      "description": "Moody's upgraded the ratings of GameStop following the announcement that approximately 52% of the existing senior unsecured noteholders have agreed to exchange those notes for new secured notes due 2023. Ratings upgraded include the company's Corporate Family Rating to B3 from Caa1, Probability of Default Rating to B3-PD from Caa1-PD, senior unsecured rating to Caa1 from Caa2, and senior secured rating to B2 from B3. The company's Speculative Grade Liquidity rating is unchanged at SGL-3. The outlook is stable. This concludes the review for upgrade that was initiated on June 5, 2020.",
+      "source": "https://www.moodys.com/research/Moodys-upgrades-GameStops-CFR-to-B3-outlook-changed-to-stable--PR_427926",
+      "icon": "fas fa-thumbs-up",
+      "tags": [
+        "Moodys",
+        "ratings"
+      ]
+    }
+  ],
+  "2020-08-03": [
+    {
+      "headline": "RoaringKitty Aka DeepFuckingValue First Livestream",
+      "description": "After publishing a few videos going over his investment strategy and tools used, he kicked off a 3/week series of livestreams",
+      "source": "https://www.youtube.com/watch?v=x6i_ZAVwirM",
+      "icon": "fab fa-youtube",
+      "tags": ["YouTube", "DeepFuckingValue"]
+    }
+  ],
+  "2020-08-14": [
+    {
+      "headline": "Melvin Capital Files 13F Revealing 34k $GME Put Contracts",
+      "description": "Reporting up until 6/30/2020. The 34k put contracts were worth ~$14.8M",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001628110/000090571820000859/0000905718-20-000859-index.html",
+      "icon": "fas fa-toilet",
+      "tags": [
+        "SEC",
+        "filing",
+        "Melvin-Capital"
+      ]
+    }
+  ],
+  "2020-08-18": [
+    {
+      "headline": "Ryan Cohen Files 13D Revealing 5.8M $GME Shares Position",
+      "description": "RC's position amounts to a 9% stake in GameStop",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001822844/000101359420000670/rc13d-082820.htm",
+      "icon": "fas fa-dog",
+      "tags": [
+        "SEC",
+        "filing",
+        "Ryan-Cohen"
+      ],
+      "highlighted": true
+    }
+  ],
+  "2020-08-28": [
+    {
+      "headline": "Ryan Cohen Amends 13D Revealing ~6.2M $GME Shares Position",
+      "description": "RC's increased position amounts to a 9.6% stake in GameStop",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001822844/000101359420000673/rc13da1-083120.htm",
+      "icon": "fas fa-dog",
+      "tags": [
+        "SEC",
+        "filing",
+        "Ryan-Cohen"
+      ]
+    }
+  ],
+  "2020-09-08": [
+    {
+      "headline": "u/Jeffamazon Posts Pro-GME Short Squeeze DD on r/WallStreetBets",
+      "description": "One of the more <a href=\"https://www.reddit.com/r/wallstreetbets/comments/ip6jnv/the_real_greatest_short_burn_of_the_century/\" target=\"_blank\">convincing DDs posted to WSB</a> ultimately contributed to the gamma squeeze run-ups in January 2021.",
+      "source": [
+        "https://www.reddit.com/r/wallstreetbets/comments/ip6jnv/the_real_greatest_short_burn_of_the_century/"
+      ],
+      "icon": "fab fa-reddit",
+      "tags": [
+        "Reddit"
+      ]
+    }
+  ],
+  "2020-09-09": [
+    {
+      "headline": "GameStop Reports Q2 2020 Earnings",
+      "description": "",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-second-quarter-results-and-strong-progress",
+      "icon": "far fa-newspaper",
+      "tags": "earnings"
+    },
+    {
+      "headline": "Credit Suisse Maintains Sell Rating For GameStop",
+      "description": "Credit Suisse analyst Seth Sigman maintained a Sell rating on GameStop and maintained a price target of $3.50. The company's shares closed last Thursday at $6.62. The word on The Street in general, suggests a Hold analyst consensus rating for GameStop with a $5.50 average price target.",
+      "source": [
+        "https://www.analystratings.com/articles/credit-suisse-keeps-their-sell-rating-on-gamestop-gme/"
+      ],
+      "icon": "fas fa-thumbs-down",
+      "tags": [
+        "analyst"
+      ]
+    }
+  ],
+  "2020-09-14": [
+    {
+      "headline": "Jefferies Raises GameStop Price Target To $8 From $7, Recommended &quot;Buy&quot;",
+      "description": "Jefferies analyst Stephanie Wissink raised the price target on GameStop to $8 (from $7) while upgrading from a Hold to a Buy rating.",
+      "source": [
+        "https://www.benzinga.com/analyst-ratings/analyst-color/20/09/17489164/jefferies-sees-upside-in-gamestop-with-new-xbox-playstation-as-catalysts"
+      ],
+      "icon": "fas fa-thumbs-up",
+      "tags": [
+        "analyst"
+      ]
+    }
+  ],
+  "2020-09-21": [
+    {
+      "headline": "Ryan Cohen Amends 13D Revealing 6.5M $GME Shares Position",
+      "description": "RC's increased position amounts to a 9.98% stake in GameStop",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001822844/000101359420000699/rc13da2-091820.htm",
+      "icon": "fas fa-dog",
+      "tags": [
+        "SEC",
+        "filing",
+        "Ryan-Cohen"
+      ]
+    }
+  ],
+  "2020-09-23": [
+    {
+      "headline": "Loop Capital Raises Price Target From $6.00 to $9.00",
+      "description": "",
+      "source": [
+        "https://www.marketbeat.com/ratingsdb/details/1480764/"
+      ],
+      "icon": "fas fa-thumbs-up",
+      "tags": [
+        "analyst"
+      ]
+    }
+  ],
+  "2020-09-30": [
+    {
+      "headline": "Dr. Burry's 13F Reveals $GME Position Reduced to ~1.7M Shares",
+      "description": "Dr. Burry's position was reduced some time between Jun 30th and Sep 30th, according to GameStop positions appearing in his 13F filed Nov 16, 2020. His 1,703,400 shares, a reduction of ~1.1M shares, were worth ~$17.4M.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1649339/000156761920019679/xslForm13F_X01/form13fInfoTable.xml",
+      "icon": "fas fa-file-download",
+      "tags": [
+        "SEC",
+        "filing",
+        "Dr-Michael-Burry"
+      ]
+    }
+  ],
+  "2020-10-08": [
+    {
+      "headline": "GameStop Partnership With Microsoft",
+      "description": "GameStop switches internal systems to use Microsoft software (O365, Azure, Dynamics 365, Teams). Microsoft will profit share Xbox-related sales sold from GameStop locations",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-multi-year-strategic-partnership-microsoft",
+      "icon": "fab fa-windows",
+      "tags": "Microsoft"
+    }
+  ],
+  "2020-10-22": [
+    {
+      "headline": "SEC Signals Pending Enforcement of Rule 15c3-3",
+      "description": "This no-action memo allows affected participants to provide feedback to the SEC prior to enforcement. Rule 15C3-3 established the requirement to keep enough cash and securities in a segregated account that will cover a portion of the costs of a major market move",
+      "source": [
+        "https://www.sec.gov/news/public-statement/lee-crenshaw-customer-protection-2020-10-23",
+        "https://www.sec.gov/news/public-statement/staff-fully-paid-lending"
+      ],
+      "icon": "fas fa-user-secret",
+      "tags": [
+        "SEC",
+        "filing"
+      ]
+    }
+  ],
+  "2020-11-10": [
+    {
+      "headline": "GameStop Announces Voluntary Early Redemption of Senior Notes",
+      "description": "GameStop will redeem $125 million in principal amount of its 6.75% Senior Notes due 2021 on December 11, 2020",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-voluntary-early-redemption-senior-notes",
+      "icon": "fas fa-money-bill-wave-alt",
+      "tags": "senior-notes"
+    }
+  ],
+  "2020-11-16": [
+    {
+      "headline": "Ryan Cohen's Threat to GameStop",
+      "description": "RC makes clear he believes he can transform GameStop from a brick & mortar retailer into a modern e-commerce gaming hub in a thriving industry.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1326380/000101359420000821/rc13da3-111620.pdf",
+      "icon": "fas fa-dog",
+      "tags": [
+        "board-of-directors",
+        "Ryan-Cohen"
+      ]
+    },
+    {
+      "headline": "Melvin Capital Files 13F Revealing 54k $GME Put Contracts",
+      "description": "Reporting up until 09/30/2020. The 54k put contracts were worth ~$55.1M",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001628110/000090571820001111/0000905718-20-001111-index.html",
+      "icon": "fas fa-toilet",
+      "tags": [
+        "SEC",
+        "filing",
+        "Melvin-Capital"
+      ]
+    }
+  ],
+  "2020-12-01": [
+    {
+      "headline": "SEC Extends Enforcement Grace Period of Rule 15c3-3",
+      "description": "As of April 22, 2021, broker-dealers will be required to bring themselves into compliance margin requirements. Rule 15C3-3 established the requirement to keep enough cash and securities in a segregated account that will cover a portion of the costs of a major market move",
+      "source": [
+        "https://www.sec.gov/divisions/marketreg/mr-noaction/2020/finra-fpl-20201022-15c3-3.pdf",
+        "https://www.law.cornell.edu/cfr/text/17/240.15c3-3"
+      ],
+      "icon": "fas fa-user-secret",
+      "tags": [
+        "SEC",
+        "filing"
+      ]
+    }
+  ],
+  "2020-12-05": [
+    {
+      "headline": "u/Uberkikz11 Tracks GameStop.com Order IDs",
+      "description": "A prominent DD writer and contributor to GMEDD.com, Rod Alzmann, <a href=\"https://www.reddit.com/r/wallstreetbets/comments/k7jp7f/gme_4q_bottom_up_ecommerce_financial_model/\" target=\"_blank\">posts a follow-up</a> to his discovery a month ago that GameStop uses sequential order numbers which can be used to infer GameStop's sales figures.",
+      "source": "https://www.reddit.com/r/wallstreetbets/comments/k7jp7f/gme_4q_bottom_up_ecommerce_financial_model/",
+      "icon": "fab fa-reddit",
+      "tags": [
+        "Reddit"
+      ]
+    }
+  ],
+  "2020-12-09": [
+    {
+      "headline": "Benchmark Lowers Price Target From $6.00 to $5.00",
+      "description": "",
+      "source": [
+        "https://www.marketbeat.com/ratingsdb/details/1519113/"
+      ],
+      "icon": "fas fa-thumbs-down",
+      "tags": [
+        "analyst"
+      ]
+    }
+  ],
+  "2020-12-10": [
+    {
+      "headline": "u/CPTHubbard Posts Pro-GME DD on r/WallStreetBets",
+      "description": "One of the more detailed DDs posted to WSB proved to also be one of the more effective ones. <a href=\"https://www.reddit.com/r/wallstreetbets/comments/kakxrm/gme_tribe_a_story_about_how_ryan_cohen_is_about/\" target=\"_blank\">This DD made the case that Ryan Cohen has a vision and the resources needed to transform GameStop, even if it involves a hostile takeover</a>. It ultimately helped sway many to invest in GameStop, amongst other quality DDs posted to WSB around this time.",
+      "source": [
+        "https://www.reddit.com/r/wallstreetbets/comments/kakxrm/gme_tribe_a_story_about_how_ryan_cohen_is_about/"
+      ],
+      "icon": "fab fa-reddit",
+      "tags": [
+        "Reddit"
+      ]
+    }
+  ],
+  "2020-12-17": [
+    {
+      "headline": "Ryan Cohen Amends 13D Revealing ~9M $GME Shares Position",
+      "description": "RC's increased position amounts to a 12.9% stake in GameStop",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001822844/000119380520001571/e620151_sc13da-gamestop.htm",
+      "icon": "fas fa-dog",
+      "tags": [
+        "SEC",
+        "filing",
+        "Ryan-Cohen"
+      ],
+      "highlighted": true
+    }
+  ],
+  "2020-12-08": [
+    {
+      "headline": "GameStop Reports Q3 2020 Earnings",
+      "description": "GameStop posted Q3 2020 net sales of $1B (down 30% YOY) and a net loss of $19M (compared to a net loss of $83M for Q3 2019). GameStop attributes the losses console cycle end (limited hardware and accessory availability), various game delays, and an 11% reduction in its store base (partially offset by recaptured sales online and at other locations)",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-third-quarter-results-positive-start-fourth",
+        "https://abcnews.go.com/Business/gamestop-timeline-closer-saga-upended-wall-street/story?id=75617315"
+      ],
+      "icon": "far fa-newspaper",
+      "tags": "earnings"
+    },
+    {
+      "headline": "GameStop Closes 462 Stores YTD",
+      "description": "GameStop continued to transform by closing 74 stores in Q3 2020, bringing the YTD closures to 462 while transferring sales to online & neighboring locations whilst reducing store operating costs",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-third-quarter-results-positive-start-fourth",
+      "icon": "fas fa-store-slash",
+      "tags": "stores"
+    }
+  ],
+  "2020-12-19": [
+    {
+      "headline": "S&amp;P Global Ratings Downgrades GameStop to BB- From B+, Outlook Negative",
+      "description": "<ul><li>&quot;GameStop recently reported weak operating performance as it continues to face risks from the elongation in the launch of new consoles, increasing competitive challenges, and long-term structural technological shifts.&quot;</li><li>&quot;We lowered the ratings on the company, including the issuer credit rating, to 'B+' from 'BB-', on both near-term performance volatility and long-term competitive uncertainties.&quot;</li><li>&quot;The negative outlook reflects our expectation that intense competition from online and traditional retailers, economic uncertainty, and the lengthening of the console cycle could result in further deterioration for operating prospects.&quot;</li></ul>",
+      "source": "https://news.futunn.com/en/post/4667323",
+      "icon": "fas fa-thumbs-down",
+      "tags": [
+        "S&P",
+        "ratings"
+      ]
+    }
+  ],
+  "2020-12-31": [
+    {
+      "headline": "Dr. Burry's 13F Reveals $GME Position Closed Out",
+      "description": "Dr. Burry's position was closed out some time between Sep 30th and Dec 31st, according to GameStop no longer appearing in his 13F filed Feb 16, 2021. This means he took profits before the large January stock price run-up",
+      "source": "https://www.sec.gov/Archives/edgar/data/1649339/000156761921003819/xslForm13F_X01/form13fInfoTable.xml",
+      "icon": "fas fa-file-download",
+      "tags": [
+        "SEC",
+        "filing",
+        "Dr-Michael-Burry"
+      ]
+    }
+  ]
+}

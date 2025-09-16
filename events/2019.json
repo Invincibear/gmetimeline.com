@@ -1,0 +1,521 @@
+{
+  "2019-01-16": [
+    {
+      "headline": "GameStop Sells Spring Mobile",
+      "description": "GameStop completed the previously disclosed sale of its Spring Mobile business to Prime Communications for $700 million. Spring Mobile owns and operates 1,284 AT&T wireless stores.\n\nWedbush analyst Michael Pachter said, &quot;I estimate they spent about $1.5 billion buying all these stores — $700 million in cash and $800 million in debt — and ended up selling for $700 million&quot; The company &quot;went from no debt and generating about $400 million in cash, to $800 million in debt and generating $300 million in cash,&quot; he said.",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-completes-sale-spring-mobile-division",
+        "https://www.businessinsider.com/gamestop-worlds-biggest-video-game-retailer-decline-explained-2019-7"
+      ],
+      "icon": "fas fa-mobile-alt",
+      "tags": [
+        "acquisitions",
+        "Spring-Mobile"
+      ]
+    }
+  ],
+  "2019-01-18": [
+    {
+      "headline": "GameStop Reports 2018 Holiday Sales Results",
+      "description": "",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-2018-holiday-sales-results",
+      "icon": "far fa-newspaper",
+      "tags": [
+        "earnings"
+      ]
+    }
+  ],
+  "2019-01-29": [
+    {
+      "headline": "GameStop Stops Trying to Sell Itself",
+      "description": "<img src=\"/img/20190129-GME_crash.png\" width=\"881\" height=\"643\" loading=\"lazy\">Reports of an imminent GameStop acquisition will go unrealized, as the retailer announced that it is no longer pursuing a sale of the company. The &quot;Board has now terminated efforts to pursue a sale of the company due to the lack of available financing on terms that would be commercially acceptable to a prospective acquiror,&quot; the company explained.\n\n$GME crashes to 14-year low from the previous close of $15.50 to $11.22.",
+      "source": [
+        "https://www.gamesindustry.biz/articles/2019-01-29-gamestop-gives-up-on-selling-the-company",
+        "https://variety.com/2019/gaming/news/gamestop-just-gave-up-on-trying-to-sell-company-1203122042/",
+        "https://markets.businessinsider.com/news/stocks/gamestop-stocks-crashes-as-board-terminates-plans-to-sell-2019-1-1027906143",
+        "https://www.fool.com/investing/2019/01/31/3-reasons-gamestop-failed-to-attract-buyers.aspx"
+      ],
+      "icon": "far fa-object-group",
+      "tags": [
+        "$GME",
+        "acquisitions"
+      ]
+    }
+  ],
+  "2019-02-12": [
+    {
+      "headline": "Hestia Capital's Threat to GameStop",
+      "description": "Hestia suggests GameStop cut costs, reduce exec compensation, perform share buy-back to combat short sellers, and focus on core video game business. They point out that the BOD members hold few shares and are not incentivized for the success of GameStop",
+      "source": [
+        "https://mma.prnewswire.com/media/821185/Hestia_Capital_letter_to_GameStop_Board.pdf",
+        "https://www.bizjournals.com/dallas/news/2019/03/14/gamestop-investors-demand-changes-to-board-amid.html"
+      ],
+      "icon": "fas fa-envelope-open-text",
+      "tags": [
+        "buy-back",
+        "board-of-directors",
+        "Hestia-Capital"
+      ]
+    }
+  ],
+  "2019-02-04": [
+    {
+      "headline": "GME Quarterly Dividend",
+      "description": "The Board declared a quarterly cash dividend of $0.38 per common share payable on March 29, 2019 to shareholders of record as of the close of business on March 15, 2019",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-declares-quarterly-cash-dividend-announces-intent",
+      "icon": "fas fa-hand-holding-usd",
+      "tags": "dividend"
+    },
+    {
+      "headline": "GME $300M Share Buy-Back Approved",
+      "description": "The Board approved a new $300 million share repurchase authorization to replace the previous share repurchase authorization, which had $170 million remaining",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-declares-quarterly-cash-dividend-announces-intent",
+      "icon": "fas fa-chart-line",
+      "tags": "buy-back"
+    },
+    {
+      "headline": "GME Retires 2019 Senior Notes",
+      "description": "GameStop has determined that part of its capital allocation plan for 2019 is to immediately provide notice of redemption in full of the $350 million in unsecured senior notes scheduled to mature in October 2019",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-declares-quarterly-cash-dividend-announces-intent",
+      "icon": "fas fa-money-bill-wave-alt",
+      "tags": "senior-notes"
+    }
+  ],
+  "2019-02-14": [
+    {
+      "headline": "Melvin Capital Files 13F Revealing 13,784 $GME Put Contracts",
+      "description": "Reporting up until 12/31/2018. The 13,784 put contracts were worth ~$17.4M",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001628110/000117266119000779/0001172661-19-000779-index.html",
+      "icon": "fas fa-toilet",
+      "tags": [
+        "SEC",
+        "filing",
+        "Melvin-Capital"
+      ]
+    },
+    {
+      "headline": "Dr. Burry Files 13F First Revealing 536,862 $GME Shares",
+      "description": "Reporting up until 12/31/2018, this is the first reported position of Dr. Burry's fund. The 536,862 shares were worth ~$6.8M",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001649339/000156761919004198/0001567619-19-004198-index.html",
+      "icon": "fas fa-file-upload",
+      "tags": [
+        "SEC",
+        "filing",
+        "Dr-Michael-Burry"
+      ]
+    }
+  ],
+  "2019-03-21": [
+    {
+      "headline": "New CEO George Sherman Hired",
+      "description": "<img src=\"/img/CEO-George_Sherman.png\" class=\"headshot\" width=\"508\" height=\"588\" loading=\"lazy\">Mr. Sherman comes from top leadership roles at Advance Auto Parts, Best Buy, Target, and Home Depot. He will also join the GameStop board of directors.",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-names-george-sherman-chief-executive-officer",
+        "https://www.bizjournals.com/dallas/news/2019/03/21/gamestop-names-retail-veteran-as-new-ceo-at.html",
+        "https://www.wsj.com/articles/gamestop-names-new-ceo-11553201173"
+      ],
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "board-of-directors",
+        "appointment",
+        "George-Sherman",
+        "CEO"
+      ]
+    }
+  ],
+  "2019-03-24": [
+    {
+      "headline": "u/delaneydi Argues GameStop Undervalued Investment Thesis",
+      "description": "Before u/DeepFuckingValue's initial YOLO, u/delaneydi made the case that GameStop's balance sheet was quite healthy and is currently a value stock ripe for a leveraged buy-out, not even taking into account a transformation of the business into an e-commerce powerhouse.",
+      "source": [
+        "https://www.reddit.com/r/wallstreetbets/comments/b4zlkt/gamestop_investment_thesis/",
+        "https://www.theverge.com/22251427/reddit-gamestop-stock-short-wallstreetbets-robinhood-wall-street"
+      ],
+      "icon": "fab fa-reddit",
+      "tags": [
+        "Reddit"
+      ]
+    }
+  ],
+  "2019-03-27": [
+    {
+      "headline": "GameStop Announces Move Into Esports",
+      "description": "The company's first step in this shift includes partnering esports group Complexity Gaming to open what it calls the most advanced esports facility in the country at The Star in Frisco, Texas. The company is also teaming up with a number of other esports brands and companies to host gaming clinics, &quot;Overwatch&quot; watch parties, and collegiate esports tournaments.",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-makes-play-multiple-esports-partners-supporting-amateur",
+        "https://variety.com/2019/gaming/news/gamestop-pivots-to-esports-with-slate-of-new-partnerships-1203173703/"
+      ],
+      "icon": "fas fa-gamepad",
+      "tags": [
+        "news",
+        "transformation"
+      ]
+    }
+  ],
+  "2019-03-28": [
+    {
+      "headline": "Hestia Capital Nominates 4 New BOD Members",
+      "description": "Hestia, tired of being ignored by the BOD, nominated Don Bell, Chris Carvalho, Lizabeth Dunn, and Hestia's Kurtis Wolf via proxy vote",
+      "source": "https://www.sec.gov/Archives/edgar/data/1326380/000092189519000922/dfan14a12166002_03282019.htm",
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "board-of-directors",
+        "Hestia-Capital"
+      ]
+    }
+  ],
+  "2019-04-01": [
+    {
+      "headline": "GameStop Placates Hestia & Permit",
+      "description": "After threatening a proxy vote, Hestia Capital & Permit Enterprises Capital Partners enter a truce and are given a GameStop board seat each to be voted upon at the next shareholder meeting",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-agreement-hestia-capital-and-permit",
+      "icon": "far fa-handshake",
+      "tags": [
+        "board-of-directors",
+        "Hestia-Capital",
+        "Permit-Enterprise"
+      ]
+    }
+  ],
+  "2019-04-02": [
+    {
+      "headline": "GameStop Reports Q4 2018 Earnings, Reports Largest Loss To-Date",
+      "description": "GameStop posts $673m full-year loss and acknowledges &quot;the challenges facing our pre-owned video game business&quot; and a need to change its business model. GameStop expects its sales will drop 5% to 10% in 2019 compared to last year, the company announced in its earnings report. News of the predicted drop, coupled with the company’s report of a drop in new hardware and new software sales in its fourth quarter, was followed by a precipitous drop in its stock, down 13% to $8.82 the following day.",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-second-quarter-results-and-strong-progress",
+        "https://variety.com/2019/gaming/news/gamestop-stock-plummets-in-face-of-dire-2019-physical-video-game-sales-predictions-1203179479/"
+      ],
+      "icon": "far fa-newspaper",
+      "tags": [
+        "earnings",
+        "$GME"
+      ]
+    }
+  ],
+  "2019-04-12": [
+    {
+      "headline": "S&amp;P Global Ratings Downgrades GameStop to BB- From BB",
+      "description": "&quot;GameStop Corp. recently reported weak operating performance as it continues to face competitive challenges and structural shifts away from physical video games toward digital delivery, leading to a decline in sales of new physical games and software as well as preowned video games.&quot;<ul><li>&quot;We believe the company's competitive position has deteriorated, a trend we expect to continue. We lowered the issuer credit rating to 'BB-' from 'BB'.&quot;</li><li>&quot;We also lowered our issue-level rating on the company's first-lien debt to 'BB+' from 'BBB-' and our issue-level rating on the unsecured notes to 'BB-' from 'BB'. All recovery ratings are unchanged.&quot;</li><li>&quot;The negative outlook reflects our expectation that intense competition from online and traditional retailers will lead to further pressure on GameStop's margin in the coming 12 months.&quot;</li></ul>",
+      "source": "https://news.futunn.com/en/post/2562094",
+      "icon": "fas fa-thumbs-down",
+      "tags": [
+        "S&P",
+        "ratings"
+      ]
+    }
+  ],
+  "2019-04-24": [
+    {
+      "headline": "Raul Fernandez Appointed To BOD",
+      "description": "<img src=\"/img/BOD-Raul_Fernandez.jpg\" class=\"headshot\" width=\"500\" height=\"500\" loading=\"lazy\">Mr. Fernandez was a candidate recommended by Hestia  & Permit. Raul serves as Vice Chairman and Owner of Monumental Sports & Entertainment, a private partnership that co-owns the NBA's Washington Wizards, the NHL's 2018 Stanley Cup Champion Washington Capitals, the WNBA's Washington Mystics, Team Liquid eSports and Wizards District Gaming NBA 2K, as well as co-owns and operates Capital One Arena in Washington, D.C. He also serves as Special Advisor and Limited Partner to General Atlantic Partners, a growth equity firm with more than $31 billion under management",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-appoints-raul-fernandez-and-lizabeth-dunn-board",
+        "https://investor.gamestop.com/board-member/raul"
+      ],
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "board-of-directors",
+        "appointment"
+      ]
+    },
+    {
+      "headline": "Lizabeth Dunn Appointed To BOD",
+      "description": "<img src=\"/img/BOD-Lizabeth_Dunn.jpg\" class=\"headshot\" width=\"400\" height=\"400\" loading=\"lazy\">Ms. Dunn was a candidate recommended by Hestia & Permit. Lizabeth is the Founder and CEO of Pro4ma Inc, an information technology services consulting firm that provides cloud-based data forecasting and predictive analytics tools to retailers. She also is the Founder and CEO of Talmage Advisers, a retail and branded consumer products consulting firm that provides a full range of services across brand strategy, pricing analysis, financial benchmarking and transactional due diligence.",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-appoints-raul-fernandez-and-lizabeth-dunn-board",
+        "https://investor.gamestop.com/board-member/lizabeth-dunn"
+      ],
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "board-of-directors",
+        "appointment"
+      ]
+    }
+  ],
+  "2019-05-15": [
+    {
+      "headline": "Melvin Capital Files 13F Revealing 32.5k $GME Put Contracts",
+      "description": "Reporting up until 03/31/2019. The 32,500 put contracts were worth ~$33M",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001628110/000117266119001253/0001172661-19-001253-index.html",
+      "icon": "fas fa-toilet",
+      "tags": [
+        "SEC",
+        "filing",
+        "Melvin-Capital"
+      ]
+    },
+    {
+      "headline": "Dr. Burry Files 13F Revealing $GME Position Increased To 650k Shares",
+      "description": "Reporting up until 3/31/2019, the 650,000 shares, an increase of 113,138 shares, were worth ~$6.6M",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001649339/000156761919010955/0001567619-19-010955-index.html",
+      "icon": "fas fa-file-upload",
+      "tags": [
+        "SEC",
+        "filing",
+        "Dr-Michael-Burry"
+      ]
+    },
+    {
+      "headline": "Richard Evans Presents ETF Short Interest and Failures-to-Deliver: Naked Short Selling or Operational Shorting?",
+      "description": "<iframe src=\"https://www.youtube.com/embed/ncq35zrFCAg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>Richard Evans, an associate professor of business administration at the University of Virginia Darden School of Business, presents his findings after over a year of detailed research on how naked shorting can be hidden through the clever use of Authorized Participants of ETFs.",
+      "source": "https://www.youtube.com/watch?v=ncq35zrFCAg",
+      "icon": "fab fa-youtube",
+      "tags": [
+        "YouTube"
+      ]
+    }
+  ],
+  "2019-05-16": [
+    {
+      "headline": "Moody's Downgrades GameStop's CFR to Ba2, Changes Outlook to Negative",
+      "description": "Moody's downgraded the ratings of GameStop's Corporate Family Rating to Ba2 from Ba1, Probability of Default Rating to Ba2-PD from Ba1-PD, and $475 million 6.75% senior unsecured notes to Ba2 from Ba1. The company's SGL-1 Speculative Grade Liquidity rating was affirmed, and the outlook was changed to negative from stable.\n\nCredit downgrades make it more difficult to raise money directly from institutional from investors and with disadvantageous terms.",
+      "source": "https://www.moodys.com/research/Moodys-downgrades-GameStop-to-Ba2-outlook-negative--PR_400869",
+      "icon": "fas fa-thumbs-down",
+      "tags": [
+        "Moodys",
+        "ratings"
+      ]
+    }
+  ],
+  "2019-05-30": [
+    {
+      "headline": "Jim Bell Appointed Executive VP & CFO",
+      "description": "<img src=\"/img/CFO-Jim_Bell.jfif\" class=\"headshot\" width=\"240\" height=\"240\" loading=\"lazy\">Mr. Bell most recently served as CFO of Wok Holdings, Inc., the parent company of P.F. Changs, Pei Wei and True Food Kitchen restaurants, where he successfully designed and led the company's overall strategic plan and omni-channel digital transformation that resulted in over $50 million in annual revenue growth over two years.<br>Jim also has a history of running companies into the ground.",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-new-leadership-appointments-and-enhanced",
+        "https://www.reddit.com/r/GME/comments/lrfvlq/jim_bell_is_a_his_firing_is_good_and_bullish/"
+      ],
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "appointment"
+      ]
+    },
+    {
+      "headline": "Chris Homeister Appointed Executive VP & Chief Merchandising Officer",
+      "description": "<img src=\"/img/VP-Chris_Homeister.jpg\" class=\"headshot\" width=\"202\" height=\"249\" loading=\"lazy\">Mr. Homeister most recently served as President, CEO and a member of the Board of Directors of The Tile Shop, a publicly traded specialty retailer, where he grew the company in terms of product assortment, online and mobile capabilities, store count, employees, revenue and EBITDA. Earlier in his career, he held a number of senior roles at Best Buy, including SVP, Digital Merchandising & Strategic Planning and General Manager and SVP, Entertainment Business Group, where he oversaw the product categories including video games, movies, music, and eReaders and launched Best Buy's video game trade-in business",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-new-leadership-appointments-and-enhanced"
+      ],
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "appointment"
+      ]
+    },
+    {
+      "headline": "Frank Hamlin Appointed Executive VP & Chief Customer Officer",
+      "description": "<img src=\"/img/VP-Frank_Hamlin.jpg\" class=\"headshot\" width=\"200\" height=\"300\" loading=\"lazy\">Mr. Hamlin has more than 25 years of experience in retail marketing, strategy, customer loyalty and e-commerce, and previously served as GameStop's Chief Marketing Officer",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-new-leadership-appointments-and-enhanced"
+      ],
+      "icon": "fas fa-user-tie",
+      "tags": [
+        "appointment"
+      ]
+    }
+  ],
+  "2019-06-03": [
+    {
+      "headline": "GameStop BOD Elects To End Quarterly Dividends",
+      "description": "The BOD elected to eliminate the company's quarterly dividend, effective immediately, in an effort to strengthen the company's balance sheet and provide increased financial flexibility and optionality. Eliminating the company's quarterly common stock dividend will preserve ~$157M annually, based on 2018 dividends paid, and enable the company to further reduce its outstanding debt. As of June 3, 2019, the company has reduced the total amount outstanding on its 2021 unsecured notes by ~$39M, leaving ~$436M outstanding.",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-first-quarter-fiscal-2019-results",
+      "icon": "fas fa-hand-holding-usd",
+      "tags": "dividend"
+    }
+  ],
+  "2019-06-04": [
+    {
+      "headline": "GameStop Reports Q1 2019 Earnings",
+      "description": "",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-first-quarter-fiscal-2019-results",
+      "icon": "far fa-newspaper",
+      "tags": "earnings"
+    }
+  ],
+  "2019-06-07": [
+    {
+      "headline": "u/DeepFuckingValue Opens Initial $GME Position",
+      "description": "Before making his <a href=\"#uDeepFuckingValuesInitialYOLO-2019-09-08\">first YOLO post</a> on Reddit's r/WallStreetBets, according to <a href=\"https://financialservices.house.gov/uploadedfiles/hhrg-117-ba00-wstate-gillk-20210218.pdf\" target=\"_blank\">his written testimony</a> from the <a href=\"#USHouseCommitteeSummonsCitadelRobinhoodMelvinCapitalReddituDeepFuckingValuetoHearing-2021-02-18\">first hearing on Feb 18, 2021</a>, he initially entered $GME buying call options.",
+      "source": "https://financialservices.house.gov/uploadedfiles/hhrg-117-ba00-wstate-gillk-20210218.pdf",
+      "icon": "fas fa-cat",
+      "tags": "DeepFuckingValue"
+    }
+  ],
+  "2019-06-10": [
+    {
+      "headline": "12M $GME Shares Buy-Back Approved",
+      "description": "GameStop launched a \u201cmodified Dutch auction\u201d tender offer to purchase up to 12M shares at $5.20-$6.00/share. $GME closing price on 06/07/2019 was $5.02/share. Buy-back commences 06/11/2019 until 07/10/2019",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-intention-launch-modified-dutch-auction",
+        "https://variety.com/2019/gaming/news/gamestop-shares-stock-1203237920/"
+      ],
+      "icon": "fas fa-chart-line",
+      "tags": "buy-back"
+    },
+    {
+      "headline": "ThinkGeek Closes Website, Moves Products Into GameStop Stores",
+      "description": "ThinkGeek shutters gaming and pop culture clothing, accessory, and toy website and moves the bulk of its business into GameStop locations & website. 40+ physical ThinkGeek locations in the US will remain open after July 02, 2019",
+      "source": "https://www.gamesindustry.biz/articles/2019-06-14-thinkgeek-moves-in-with-gamestop",
+      "icon": "fas fa-tshirt",
+      "tags": [
+        "acquisitions",
+        "ThinkGeek"
+      ]
+    }
+  ],
+  "2019-07-15": [
+    {
+      "headline": "12M Shares Buy-Back Results",
+      "description": "GameStop paid ~$62.4M to repurchase 12M shares at $5.20/share. ~$238M for subsequent buy-backs remains allocated.",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-preliminary-results-its-modified-dutch",
+      "icon": "fas fa-chart-line",
+      "tags": "buy-back"
+    }
+  ],
+  "2019-07-26": [
+    {
+      "headline": "Ryan Cohen Writes Op-Ed About Chewy's Financials",
+      "description": "While not directly related to GameStop, it serves as a fantastic insight into the operating mentality of the young entrepreneur before he focuses on GameStop",
+      "source": "https://www.cnbc.com/2019/07/26/opinion-chewy-is-no-petscom.html",
+      "icon": "fas fa-dog",
+      "tags": "Ryan-Cohen"
+    }
+  ],
+  "2019-08-14": [
+    {
+      "headline": "Melvin Capital Files 13F Revealing 18k $GME Put Contracts",
+      "description": "Reporting up until 06/30/2019. The 18k put contracts were worth ~$9.8M",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001628110/000117266119001771/0001172661-19-001771-index.html",
+      "icon": "fas fa-toilet",
+      "tags": [
+        "SEC",
+        "filing",
+        "Melvin-Capital"
+      ]
+    }
+  ],
+  "2019-08-16": [
+    {
+      "headline": "Dr. Burry's Letter to GameStop BOD",
+      "description": "Dr. Burry urges the BOD to allocate $300M towards a share buy-back program to counter the ~$4/share stock price.",
+      "source": "https://www.businesswire.com/news/home/20190819005633/en/Scion-Asset-Management-Urges-GameStop-Buy-238?mod=article_inline",
+      "icon": "fas fa-envelope-open-text",
+      "tags": [
+        "buy-back",
+        "board-of-directors",
+        "Dr-Michael-Burry",
+        "$GME"
+      ]
+    }
+  ],
+  "2019-09-08": [
+    {
+      "headline": "u/DeepFuckingValue's Initial YOLO",
+      "description": "<img src=\"/img/DFV-20190908.png\" class=\"DFVYOLO\" width=\"960\" height=\"486\" loading=\"lazy\">DFV posts positions consisting primarily of ~$53k worth of $GME call options with various 2019 expiry dates. He gets grilled in the comments by concerned Redditors who suggest he unload his position",
+      "source": "https://www.reddit.com/r/wallstreetbets/comments/d1g7x0/hey_burry_thanks_a_lot_for_jacking_up_my_cost/",
+      "icon": "fas fa-cat",
+      "tags": [
+        "DeepFuckingValue",
+        "Dr-Michael-Burry"
+      ]
+    }
+  ],
+  "2019-09-10": [
+    {
+      "headline": "GameStop Reports Q2 2019 Earnings",
+      "description": "Shares of GameStop Corp. plunged on Wednesday as the embattled video game retailer turns to closing stores to offset declining sales.\n\nThe Grapevine, Texas, company plans to close between 180 and 200 of its roughly 5,700 stores globally by the end of its 2019 fiscal year, company finance chief James Bell said on a conference call with analysts Tuesday evening. The closures are part of a broader review of the company’s store footprint that could lead it to shutter more locations.\n\nThe company’s stock, down more than 10% Wednesday, has fallen about 63% this year and roughly 71% over the past 12 months.",
+      "source": [
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-second-quarter-fiscal-2019-earnings-release",
+        "https://www.wsj.com/articles/gamestop-shares-fall-as-company-turns-to-store-closures-11568230146?mod=article_inline"
+      ],
+      "icon": "far fa-newspaper",
+      "tags": "earnings"
+    }
+  ],
+  "2019-09-20": [
+    {
+      "headline": "GameStop BOD Members Finally Purchase $GME Shares",
+      "description": "Only after a letter from Permit & Hestia did five directors purchase ~97,000 shares between them, representing the first purchases by any of the current eleven Directors in over nine years. Without shares, BOD directors have no skin in the game",
+      "source": "https://www.sec.gov/Archives/edgar/data/1326380/000119380520000339/ex991da212166002_03122020.htm",
+      "icon": "far fa-newspaper",
+      "tags": [
+        "board-of-directors",
+        "Hestia-Capital",
+        "Permit-Enterprise"
+      ]
+    }
+  ],
+  "2019-11-07": [
+    {
+      "headline": "u/DeepFuckingValue Comments on ~75% $GME Short Interest",
+      "description": "<img src=\"/img/DFV-short_interest_comment.png\" width=\"1316\" height=\"580\" loading=\"lazy\">&quot;Yea I see short interest of roughly 75% of the float. I simply can't understand that level of conviction in the bear thesis. It's insane.&quot;",
+      "source": "https://www.reddit.com/r/wallstreetbets/comments/dpwjy8/gme_yolo_monthend_update_oct_2019/f6vizif?utm_source=share&utm_medium=web2x&context=3",
+      "icon": "fas fa-cat",
+      "tags": "DeepFuckingValue"
+    }
+  ],
+  "2019-11-14": [
+    {
+      "headline": "Melvin Capital Files 13F Revealing 40k $GME Put Contracts",
+      "description": "Reporting up until 09/30/2019. The 40k put contracts were worth ~$22M",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001628110/000117266119002217/0001172661-19-002217-index.html",
+      "icon": "fas fa-toilet",
+      "tags": [
+        "SEC",
+        "filing",
+        "Melvin-Capital"
+      ]
+    },
+    {
+      "headline": "Dr. Burry Files 13F Revealing $GME Position Increased To 3M Shares",
+      "description": "Reporting up until 9/30/2019, the 3,000,000 shares, an increase of 2,350,000 shares, were worth ~$16.6M.",
+      "source": "https://www.sec.gov/Archives/edgar/data/0001649339/000156761919021303/0001567619-19-021303-index.html",
+      "icon": "fas fa-file-upload",
+      "tags": [
+        "SEC",
+        "filing",
+        "Dr-Michael-Burry"
+      ]
+    }
+  ],
+  "2019-12-10": [
+    {
+      "headline": "GameStop Reports Q3 2019 Earnings",
+      "description": "",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-third-quarter-fiscal-2019-results-and-updates",
+      "icon": "far fa-newspaper",
+      "tags": "earnings"
+    },
+    {
+      "headline": "22M Shares Buy-Back",
+      "description": "GameStop paid ~$115.7M to repurchase 22.6M shares at $5.11/share, bringing the YTD repurchase activity to $178.6 million for 34.6 million shares, or 34% of the shares outstanding, at an average price of $5.14 per share. GameStop has 67.8M shares outstanding as of Q3 2019 end",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-reports-third-quarter-fiscal-2019-results-and-updates",
+      "icon": "fas fa-chart-line",
+      "tags": "buy-back"
+    }
+  ],
+  "2019-12-11": [
+    {
+      "headline": "Robert W. Baird Lowers Price Target to $5.00",
+      "description": "Robert W. Baird Lowered their price target for GameStop to $5.00 from $6.00",
+      "source": [
+        "https://www.marketbeat.com/ratingsdb/details/1315452/"
+      ],
+      "icon": "fas fa-thumbs-down",
+      "tags": [
+        "analyst"
+      ]
+    },
+    {
+      "headline": "Credit Suisse Reduces Price Target to $5.00",
+      "description": "Credit Suisse analyst Seth Sigman maintained a Sell rating on GameStop today and set a new price target of $5.00 from $6.00. The company's shares closed last Monday at $5.56. The word on The Street in general, suggests a Hold analyst consensus rating for GameStop with a $5.38 average price target.",
+      "source": [
+        "https://www.analystratings.com/articles/analysts-opinions-are-mixed-on-these-services-stocks-autozone-nyse-azo-dish-network-nasdaq-dish-and-gamestop-nyse-gme/",
+        "https://www.marketbeat.com/ratingsdb/details/1315391/"
+      ],
+      "icon": "fas fa-thumbs-down",
+      "tags": [
+        "analyst"
+      ]
+    }
+  ]
+}

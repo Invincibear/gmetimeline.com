@@ -1,0 +1,51 @@
+{
+  "2015-03-03": [
+    {
+      "headline": "GME Quarterly Dividend Declared",
+      "description": "The Board declared a quarterly cash dividend of $0.36 per common share payable on March 24, 2015 to shareholders of record as of the close of business on March 17, 2015",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-increases-annual-cash-dividend-0",
+      "icon": "fas fa-hand-holding-usd",
+      "tags": "dividend",
+      "hidden": false
+    }
+  ],
+  "2015-07-14": [
+    {
+      "headline": "GameStop Completes Tender Offer of Geeknet Shares",
+      "description": "The expiration of the tender offer to purchase all outstanding shares of Geeknet for $20.00 per share expired 07/13/2015. Following this completion, the merger of Geeknet into GameStop shall complete.",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-expiration-tender-offer",
+      "icon": "fas fa-server",
+      "tags": [
+        "acquisitions",
+        "Geeknet"
+      ],
+      "hidden": false
+    }
+  ],
+  "2015-07-20": [
+    {
+      "headline": "GameStop Acquires ThinkGeek",
+      "description": "GameStop adds collectibles to it's core offerings",
+      "source": "https://www.gamesindustry.biz/articles/2015-06-02-gamestop-to-acquire-thinkgeek",
+      "icon": "fas fa-tshirt",
+      "tags": [
+        "acquisitions",
+        "ThinkGeek"
+      ],
+      "hidden": false
+    }
+  ],
+  "2015-12-10": [
+    {
+      "headline": "GameStop Now Owns and Operates 1,000 Technology Brand Stores Nationwide",
+      "description": "The family of specialty retail brands now boasts the title of largest video game retailer in the world, as well as the largest AT&T authorized retailer and largest Apple-authorized specialist in the USA. GameStop launched its new Technology Brands segment in 2013 when it acquired Simply Mac, the largest certified reseller of Apple products, and Spring Mobile, the fastest growing AT&T authorized retailer of wireless services",
+      "source": "https://news.gamestop.com/news-releases/news-release-details/gamestop-now-owns-and-operates-1000-technology-brand-stores",
+      "icon": "fas fa-power-off",
+      "tags": [
+        "acquisitions",
+        "Spring-Mobile"
+      ],
+      "hidden": false
+    }
+  ]
+}
