@@ -7,6 +7,5 @@
 /var/cache/
 /vendor/
 .bash_history
-.env
 composer.phar
 tips.csv
